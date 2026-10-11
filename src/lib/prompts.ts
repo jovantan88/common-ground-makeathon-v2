@@ -47,7 +47,13 @@ STRUCTURE
 - Keep it easy to follow. The mystery is ONE simple, concrete question a 10-year-old could repeat (e.g. "Who carved this token, and why was it broken in half?"). The heirloom is also the hero's way home, which gives them a clear goal (e.g. "find the other half of the token").
 - A central mystery runs through everything and is paid off in the finale.
 - A small cast (3–5 recurring characters) with simple names, clear roles and vivid, distinct visual descriptions so the artist can draw them consistently. Include at least one ancestor the hero bonds with and at least one source of conflict (a rival, a storm, an unjust law, a war).
-- Be specific and historically accurate: real places, dates, ships, trades, laws, foods and festivals. Avoid stereotypes.`;
+- Be specific and historically accurate: real places, dates, ships, trades, laws, foods and festivals. Avoid stereotypes.
+
+LEARNING THROUGH THE JOURNEY
+- Give each act one or two concrete things the reader can learn through what the hero does. Put the learning focus in history and connect it to the action in beat: a skill they try, a place they navigate, or a custom they need to understand.
+- Vary those learning opportunities across the saga. Language, everyday customs, food, crafts, geography, buildings, clothing and celebrations are possibilities, not a checklist. Choose what naturally belongs to this community, place and era; do not add detours just to cover a category.
+- Include useful visual specifics in the cast's clothing and relevant locations or objects, with attention to occupation, weather and occasion. Everyday dress is not automatically ceremonial dress. A festival belongs only when the story's season and location support it.
+- Scope cultural explanations to the community and circumstances depicted. Do not present one household's habits as something everyone of that heritage does.`;
 
 export function outlinePrompt(hero: Hero, heritage: HeritageOption, research: Research) {
   return `${heroBlock(hero, research)}
@@ -95,16 +101,21 @@ COMIC PAGES
 - heroOutfit: decide exactly what the hero wears this chapter so the artist keeps it identical on every page.
 - setting: place and year shown in the panel. cast: names of recurring characters visible in it (never the hero).
 - scene: what happens and what we see, in 1–3 plain sentences. In scene (only) call the protagonist "the hero", and say what they're wearing whenever it changes.
-- LETTERING LIMITS (it is drawn into the art, so keep it short and easy to spell): caption ≤ 14 words; at most 2 speech balloons per panel, each ≤ 10 words; sfx is one or two words. Use plain, common words — rare or foreign words are easily misspelled in the art, so introduce them in the historyNote instead. In captions and dialogue call the hero by their first name. Every speaker must be visible in that panel.
+- LETTERING LIMITS (it is drawn into the art, so keep it short and easy to spell): caption ≤ 14 words; at most 2 speech balloons per panel, each ≤ 10 words; sfx is one or two words. Use plain, common English. When teaching a language, one short, reliable romanised word or phrase is welcome, with its English meaning clear in the same or next panel. Keep longer explanations and native-script spelling in the learning cards. In captions and dialogue call the hero by their first name. Every speaker must be visible in that panel.
 
-EDUCATION
-- Ground everything in real, verifiable history: actual places, dates, events, trades, foods, customs, laws and technology. No anachronisms.
-- Weave one or two real facts into the action of every chapter; historyNote explains one of them in 2–4 friendly sentences.
-- dialectWord: a real, common word or phrase in the heritage's dialect or language, with romanisation, native script and meaning (e.g. Hokkien 'Lâm-iûnn' 南洋 = 'the South Seas'). Null if unsure — never invent.
-- quiz: one 3-option question answerable from this chapter, answerIndex 0-based, one-sentence explanation. Vary which option is correct.
+EDUCATION — let the reader learn by joining in
+- Choose one or two specific learning threads that fit the current scene and reader's choice. Possible subjects include a useful local phrase, a daily custom, a craft or food, a real location and why it matters, clothing and its purpose, or a celebration. These are examples, not required categories. Develop a few details meaningfully instead of listing many facts.
+- Make the learning happen inside the comic: the hero notices something, asks or tries it, then uses that understanding to help someone, make a decision, solve a problem or understand a consequence. Use existing characters and locations. Do not interrupt an unresolved danger for a lesson or jump scenes to find one.
+- Give the reader a clear name and simple explanation of the main detail through captions or dialogue, plus a visible action or object. Specify relevant features in scene so the illustrator can show them: how an item is worn or used, a building feature, a landscape or a shared activity. The educational point must reach the reader, not exist only in the drawing brief or end cards. Keep the lettering limits.
+- Be specific about community, place, period and circumstance. Everyday clothing depends on work, weather and means; festival dress is not daily dress. Preserve established outfits and show any change. Only include a festival when its timing fits. Avoid treating a country, religion or surname as one uniform culture, and distinguish a character's family habit from a wider practice.
+- Ground the learning in well-established history and cultural knowledge. No invented customs, vocabulary, translations or historical claims; choose a different detail when unsure. Never call fictional ancestors or magical events historical evidence.
+- Language is optional but practical: when a reliable word or short phrase fits, have a character use or teach it for a reason and make its meaning clear. Match the language or dialect actually used by that community in that era; do not silently substitute a different language. dialectWord repeats that same expression with its language, romanisation, native script and a plain English meaning followed by one short sentence about when to use it. Use null when no reliable, relevant expression fits; do not add unrelated vocabulary just to fill the card.
+- Build on previous learning without repeating the same introductory fact or greeting. The story history includes earlier history notes and language cards; reuse a known detail only to apply it in a new way, and introduce something new when the scene allows.
+- historyNote: expand one detail the reader actually encountered in this chapter in 2–4 friendly sentences. Explain what it is, why it matters in this place and era, and its connection to the action; add context instead of repeating dialogue. This can teach everyday culture or geography as well as major historical events.
+- quiz: one 3-option question that lets the reader apply or explain something taught in the panels or learning cards, not guess untaught trivia. Use a clear correct answer, answerIndex 0-based, and a one-sentence explanation tied to the scene. Vary which option is correct.
 
 CHOICES
-- 3 clearly different options in the imperative, ≤ 12 words each: one bold or risky, one curious, one kind or social. Each must be an action the hero can attempt from the final panel using what they currently know and have. Move toward the next act only when the scene supports it.
+- 3 clearly different options in the imperative, ≤ 12 words each: one bold or risky, one curious, one kind or social. Each must be an action the hero can attempt from the final panel using what they currently know and have. When natural, let an option put the chapter's learning to use. Move toward the next act only when the scene supports it.
 
 PACING
 - Follow the outline's order, but an act may take several chapters. Set act to the main act actually depicted, not the chapter number. Complete or explicitly carry forward the current problem before moving on; use fewer new events when connective panels need room.
@@ -177,6 +188,7 @@ function chapterHistory(p: Page, i: number) {
     heroOutfit: p.heroOutfit,
     sheets: p.sheets.map((sheet) => ({ panels: sheet.panels.map(panelHistory) })),
     historyTaught: p.historyNote,
+    languageTaught: p.dialectWord,
     isFinale: p.isFinale,
   };
 }

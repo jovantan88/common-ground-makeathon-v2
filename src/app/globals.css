@@ -11,6 +11,7 @@
   --font-display: var(--font-bangers), "Impact", sans-serif;
   --font-heading: var(--font-bangers), "Impact", sans-serif;
   --font-brush: "Ma Shan Zheng", "Kaiti SC", "STKaiti", serif;
+  --font-surname: ui-sans-serif, system-ui, sans-serif;
   --font-mono: ui-monospace, monospace;
   --color-ring: var(--ring);
   --color-input: var(--input);

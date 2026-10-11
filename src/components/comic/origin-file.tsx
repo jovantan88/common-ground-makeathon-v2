@@ -2,31 +2,56 @@ import { FolderOpenIcon, InfoIcon, SparklesIcon, StarIcon } from "lucide-react";
 import type { Research } from "@/lib/schemas";
 import { cn } from "@/lib/utils";
 
+const nameSegments = new Intl.Segmenter("und", { granularity: "grapheme" });
+
 /** "The Origin File": the researched history of a surname, styled as a case file. */
 export function OriginFile({ research, compact = false }: { research: Research; compact?: boolean }) {
-  const hanzi = research.nativeScript.split(/[\s(（]/)[0];
+  const nativeName = research.nativeScript.trim().normalize("NFC");
+  // Keep multiword names intact; parenthesized script variants remain below the badge.
+  const displayName =
+    nativeName.replace(/\s*[(（].*[)）]\s*$/u, "").trim() || research.surname.trim().normalize("NFC");
+  const isHan = /^[\p{Script=Han}\p{Mark}]+$/u.test(displayName);
+  const nameLength = Array.from(nameSegments.segment(displayName)).length;
+  const nameSize =
+    nameLength === 1 ? "text-8xl" :
+    nameLength === 2 && !isHan ? "text-6xl" :
+    nameLength <= 4 ? "text-5xl" :
+    nameLength <= 8 ? "text-3xl" :
+    nameLength <= 14 ? "text-2xl" : "text-xl";
 
   return (
-    <section className="comic-box relative bg-white">
+    <section className="comic-box relative min-w-0 bg-white [overflow-wrap:anywhere]">
       <div className="flex items-center gap-2 border-b-[3px] border-ink bg-ink px-4 py-2 text-paper">
-        <FolderOpenIcon className="size-5 text-pow" />
-        <h2 className="comic-title text-2xl tracking-wider">
-          The Origin File: <span className="text-pow">{research.surname}</span>
+        <FolderOpenIcon className="size-5 shrink-0 text-pow" />
+        <h2 className="comic-title min-w-0 text-2xl tracking-wider">
+          The Origin File:{" "}
+          <bdi dir="auto" className="font-surname leading-normal font-bold tracking-normal text-pow">
+            {research.surname}
+          </bdi>
         </h2>
       </div>
 
-      <div className={cn("grid gap-6 p-4 sm:p-6", !compact && "md:grid-cols-[auto_1fr]")}>
-        <div className="flex flex-col items-center gap-3">
-          <div className="sunburst grid size-36 place-items-center border-[3px] border-ink shadow-comic">
-            <span className={cn("leading-none text-ink", hanzi ? "font-brush text-8xl" : "comic-title text-5xl")}>
-              {hanzi || research.surname.slice(0, 3)}
-            </span>
+      <div className={cn("grid gap-6 p-4 sm:p-6", !compact && "md:grid-cols-[auto_minmax(0,1fr)]")}>
+        <div className={cn("flex min-w-0 flex-col items-center gap-3", !compact && "md:w-56")}>
+          <div className={cn(
+            "sunburst grid min-h-36 place-items-center border-[3px] border-ink px-3 py-4 shadow-comic",
+            isHan && nameLength <= 2 ? "w-36" : "w-full max-w-56"
+          )}>
+            <bdi dir="auto" className={cn(
+              "block w-full min-w-0 text-center text-ink [overflow-wrap:anywhere]",
+              isHan ? "font-brush leading-none" : "font-surname leading-snug font-bold",
+              nameSize
+            )}>
+              {displayName}
+            </bdi>
           </div>
-          {research.nativeScript && <p className="text-sm font-bold">{research.nativeScript}</p>}
+          {nativeName && (
+            <p className="max-w-56 text-center font-surname text-sm font-bold"><bdi dir="auto">{nativeName}</bdi></p>
+          )}
           <div className="flex max-w-56 flex-wrap justify-center gap-1.5">
             {research.romanizations.slice(0, 6).map((r) => (
               <span key={r.label + r.spelling} className="border-2 border-ink bg-paper px-1.5 py-0.5 text-xs font-bold">
-                {r.label}: <span className="text-zap">{r.spelling}</span>
+                {r.label}: <bdi dir="auto" className="font-surname text-zap">{r.spelling}</bdi>
               </span>
             ))}
           </div>

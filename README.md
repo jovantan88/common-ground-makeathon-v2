@@ -17,6 +17,8 @@ Type your surname. An AI historian researches where it comes from and which dial
 6. **Choose what's next**: three choices (bold, curious, heartfelt) or write your own. A journey map unlocks each act as you reach it.
 7. **Share**: sagas are unlisted by default. "Share to gallery" adds yours to the community gallery, and other readers can **remix** a saga into their own copy and keep going.
 
+Learning is part of the adventure: each chapter develops one or two details that fit its scene, such as a useful phrase, local custom, place, craft, clothing or celebration. The hero encounters and uses those details in the panels; the history note explains their significance, an optional language card gives a phrase used in the scene and when to use it, and the quiz checks understanding. Earlier language cards and history notes are carried forward so later chapters can build on them. The writer chooses relevant details rather than forcing every category into every chapter.
+
 ## Stack
 
 - **Next.js 16** (App Router, Cache Components) + **Tailwind v4** + **shadcn/ui**, restyled with a comic theme (Bangers + Comic Neue + Ma Shan Zheng brush font, halftone dots, ink borders, starbursts)

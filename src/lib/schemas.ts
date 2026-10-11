@@ -65,7 +65,9 @@ export const OutlineSchema = z.object({
         place: z.string(),
         era: z.string(),
         beat: z.string().describe("What happens, the obstacle, and the dramatic turn — 2 sentences"),
-        history: z.string().describe("The real history this act teaches — 1 sentence"),
+        history: z
+          .string()
+          .describe("One or two specific historical or cultural details the hero learns through this act's action — 1 sentence"),
       })
     )
     .describe("5–7 acts: present-day discovery → the past, in chronological order → return to the present"),
@@ -165,19 +167,26 @@ export const ChapterSchema = z.object({
     .array(SheetSchema)
     .describe("The chapter's comic pages in reading order — usually 2 to 4, each one a self-contained beat"),
   historyNote: z
-    .object({ title: z.string(), body: z.string().describe("2–4 sentences of verifiable history") })
-    .describe("The educational 'Did you know?' box for this chapter"),
+    .object({
+      title: z.string(),
+      body: z
+        .string()
+        .describe("2–4 sentences explaining a real historical, cultural or geographical detail encountered in the panels, why it matters and how it connects to the action"),
+    })
+    .describe("The educational 'Did you know?' box, expanding something the reader saw in this chapter"),
   dialectWord: z
     .object({
       language: z.string().describe("e.g. 'Hokkien', 'Irish', 'Kristang'"),
       term: z.string().describe("Romanised word/phrase"),
       script: z.string().describe("Native script, or empty string"),
-      meaning: z.string(),
+      meaning: z.string().describe("Plain English meaning, followed by one short sentence explaining when to use this expression"),
     })
     .nullable()
-    .describe("A real word in the heritage dialect/language used in this chapter, or null if unsure"),
+    .describe("A reliable word or short phrase used or taught in this chapter's action, matching its community and era; null if no appropriate expression fits"),
   quiz: z.object({
-    question: z.string(),
+    question: z
+      .string()
+      .describe("An application or understanding question about something taught in this chapter's panels or learning cards"),
     options: z.array(z.string()).describe("Exactly 3 options"),
     answerIndex: z.number().int().describe("0-based index of the correct option"),
     explanation: z.string(),

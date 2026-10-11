@@ -86,15 +86,19 @@ export function ComicPage({
             </section>
 
             {page.dialectWord ? (
-              <section className="halftone-light relative border-[3px] border-ink bg-bam p-4 text-white shadow-comic-sm md:col-span-2">
+              <section className="halftone-light relative min-w-0 border-[3px] border-ink bg-bam p-4 text-white shadow-comic-sm [overflow-wrap:anywhere] md:col-span-2">
                 <h3 className="comic-title text-2xl text-pow text-outline-sm">
                   Say it in {page.dialectWord.language || heritage.name}!
                 </h3>
-                <div className="mt-2 flex flex-wrap items-baseline gap-x-3">
+                <div className="mt-2 flex flex-wrap items-baseline gap-x-3 gap-y-1">
                   {page.dialectWord.script && (
-                    <span className="font-brush text-5xl leading-none">{page.dialectWord.script}</span>
+                    <bdi dir="auto" className="min-w-0 max-w-full font-surname text-3xl leading-relaxed">
+                      {page.dialectWord.script}
+                    </bdi>
                   )}
-                  <span className="text-xl font-bold italic">{page.dialectWord.term}</span>
+                  <bdi dir="auto" className="min-w-0 max-w-full font-surname text-xl font-bold">
+                    {page.dialectWord.term}
+                  </bdi>
                 </div>
                 <p className="mt-2 text-[15px]">{page.dialectWord.meaning}</p>
               </section>
