@@ -1,0 +1,1439 @@
+{
+  "id": "preset-murphy-leinster-wexford",
+  "version": 1,
+  "hero": {
+    "name": "Aoife",
+    "surname": "Murphy",
+    "pronouns": "she",
+    "look": "14, wild red curls, freckles, green raincoat",
+    "home": "Boston"
+  },
+  "heritage": {
+    "id": "leinster-wexford",
+    "name": "Gaelic Irish of Leinster",
+    "nativeName": "Laighin",
+    "spelling": "Murphy / Ó Murchadha",
+    "homeland": "County Wexford and neighbouring southeastern Ireland",
+    "migrationStory": "People from southeastern Ireland moved to Britain and North America, especially during the 19th century. Wexford emigrants also joined Irish communities in Australia.",
+    "likelihood": "high",
+    "funFact": "Wexford is one of Murphy’s strongest historic heartlands."
+  },
+  "research": {
+    "surname": "Murphy",
+    "nativeScript": "Ó Murchadha / Ó Murchú",
+    "culture": "Irish",
+    "meaning": "Murphy means “descendant of Murchadh,” an Irish personal name combining muir, “sea,” and cath, “battle.” Murchadh is commonly interpreted as “sea warrior”; the surname itself does not prove a seafaring ancestry.",
+    "summary": "Murphy is Ireland’s most common surname, with particularly strong historical roots in County Wexford and County Cork. Several distinct Irish families adopted the name independently, and centuries of migration carried it to Britain, North America, Australia and beyond.",
+    "originStory": "In medieval Ireland, families began using Ó Murchadha, meaning “descendant of Murchadh,” to identify descent from an ancestor bearing that personal name. Because Murchadh was used by different families, there was no single founder of all Murphys. Important Murphy lineages developed in Leinster and Munster, especially in present-day Wexford and Cork.",
+    "romanizations": [
+      {
+        "label": "English",
+        "spelling": "Murphy"
+      },
+      {
+        "label": "Irish",
+        "spelling": "Ó Murchadha"
+      },
+      {
+        "label": "Irish contracted form",
+        "spelling": "Ó Murchú"
+      },
+      {
+        "label": "Historical English variant",
+        "spelling": "O'Murphy"
+      }
+    ],
+    "timeline": [
+      {
+        "era": "10th–12th centuries",
+        "event": "As hereditary surnames spread in Ireland, different families formed names meaning “descendant of Murchadh.”"
+      },
+      {
+        "era": "Medieval period",
+        "event": "Murphy families became established in Leinster and Munster, with enduring concentrations in Wexford and Cork."
+      },
+      {
+        "era": "16th–18th centuries",
+        "event": "English-language administration increasingly recorded Irish surnames in anglicised forms; Murphy often appeared without the Ó prefix."
+      },
+      {
+        "era": "1845–1852 and following decades",
+        "event": "The Great Famine and continuing economic hardship accelerated Irish migration to Britain, North America and Australia."
+      },
+      {
+        "era": "1901 to today",
+        "event": "Census and modern surname statistics document Murphy as Ireland’s most common surname, also widespread throughout the Irish diaspora."
+      }
+    ],
+    "heritageOptions": [
+      {
+        "id": "leinster-wexford",
+        "name": "Gaelic Irish of Leinster",
+        "nativeName": "Laighin",
+        "spelling": "Murphy / Ó Murchadha",
+        "homeland": "County Wexford and neighbouring southeastern Ireland",
+        "migrationStory": "People from southeastern Ireland moved to Britain and North America, especially during the 19th century. Wexford emigrants also joined Irish communities in Australia.",
+        "likelihood": "high",
+        "funFact": "Wexford is one of Murphy’s strongest historic heartlands."
+      },
+      {
+        "id": "munster-cork",
+        "name": "Gaelic Irish of Munster",
+        "nativeName": "An Mhumhain",
+        "spelling": "Murphy / Ó Murchú",
+        "homeland": "County Cork and neighbouring southern Ireland",
+        "migrationStory": "Cork families emigrated to Britain, the United States, Canada and Australia, particularly during and after the Great Famine. Many departed through Cork Harbour, including the port now called Cobh.",
+        "likelihood": "high",
+        "funFact": "Cork’s famous Murphy’s stout was founded by members of the Murphy family in 1856."
+      },
+      {
+        "id": "ulster-irish",
+        "name": "Irish families of Ulster",
+        "nativeName": "Ulaidh",
+        "spelling": "Murphy / Ó Murchadha",
+        "homeland": "Ulster, including Counties Armagh and Tyrone",
+        "migrationStory": "Murphy families from Ulster joined migrations to Scotland, England and North America during the 18th and 19th centuries. Their descendants became part of both Irish and wider Ulster emigrant communities.",
+        "likelihood": "medium",
+        "funFact": "Murphy is found across Ireland’s provinces, not just in its southern heartlands."
+      }
+    ],
+    "famousBearers": [
+      {
+        "name": "Cillian Murphy",
+        "note": "Cork-born actor who won the Academy Award for Best Actor for Oppenheimer."
+      },
+      {
+        "name": "Eddie Murphy",
+        "note": "American comedian and actor known for Beverly Hills Cop and voicing Donkey in Shrek."
+      },
+      {
+        "name": "Audie Murphy",
+        "note": "Highly decorated American Second World War soldier who later became a film actor."
+      }
+    ],
+    "funFacts": [
+      "Murphy is Ireland’s most common surname.",
+      "The Ó in its Irish forms means “descendant of,” rather than simply “son of.”",
+      "The personal name behind Murphy contains the Irish word for “sea.”",
+      "Ó Murchadha and Ó Murchú are related Irish forms of the surname.",
+      "Two Murphy families can share a surname without sharing a recent ancestor."
+    ],
+    "caveat": "Murphy strongly suggests Irish surname origins, but spelling alone cannot identify a county, clan, religion or ethnicity. The regional options are historical possibilities, not personal ancestry estimates; records of your earliest known ancestors are needed to distinguish them."
+  },
+  "outline": {
+    "title": "The Sea Between Two Halves",
+    "tagline": "A broken weaving shuttle carries Aoife across an ocean—and into her family's unfinished promise.",
+    "logline": "Fourteen-year-old Aoife Murphy discovers half a wooden weaving shuttle in a Boston family trunk and is swept into her ancestors’ County Wexford home. Following its missing half through famine, migration, and another generation’s crisis, she discovers that keeping a family together sometimes means helping it live apart.",
+    "heirloom": {
+      "name": "The Split Shuttle",
+      "description": "Half of a polished wooden weaving shuttle, with a brass tip, a carved wave, and the letters Ó Murchadha scratched along its edge. Its matching half bears the rest of the wave; when Aoife touches the broken edge, it carries her to moments when her family’s future changed, but only joining the halves will open her way home."
+    },
+    "mystery": "Who kept the other half of the shuttle?",
+    "cast": [
+      {
+        "name": "Eileen Murphy",
+        "role": "Aoife’s ancestor; a young Wexford weaver who emigrates to Boston",
+        "look": "Nineteen in 1844, short and sturdy, with a round freckled face, dark auburn hair braided around her head, and a blue wool shawl over a patched brown dress; later appearances retain the shawl and show her aging."
+      },
+      {
+        "name": "Tomás Murphy",
+        "role": "Eileen’s younger brother, who remains in Wexford",
+        "look": "Fourteen in 1844, lanky, with a narrow face, straight black hair, and a conspicuous gap between his front teeth; wears a rust-colored neckerchief and an oversized gray jacket, with age-appropriate changes in later appearances."
+      },
+      {
+        "name": "Mr. Keane",
+        "role": "A fictional estate agent whose rent demands threaten the family home",
+        "look": "Forty-five, tall and angular, with sandy side-whiskers, thin lips, a dark fitted coat, and a leather rent ledger tucked beneath one arm."
+      },
+      {
+        "name": "Nora Murphy",
+        "role": "Tomás’s granddaughter; a later emigrant and Boston nurse",
+        "look": "Twenty-four in 1918, broad-shouldered, with brown skin weathered by outdoor work, dark eyes, and black hair pinned into a tight bun; wears a white nursing apron and carries a small green traveling case."
+      }
+    ],
+    "acts": [
+      {
+        "title": "A Wave in the Wood",
+        "place": "Boston, Massachusetts",
+        "era": "Present day",
+        "beat": "Aoife, fourteen, with wild red curls, freckles, and a green raincoat, finds the broken shuttle beneath family letters in a trunk, alongside a photograph labeled 'Wexford.' When she traces its carved wave, her kitchen dissolves into a weaving room, and she discovers that the shuttle will not take her home while its other half is missing.",
+        "history": "Boston became a major home for Irish immigrants and their descendants, but a shared surname alone cannot establish a particular family’s ancestry."
+      },
+      {
+        "title": "The Name at the Loom",
+        "place": "A fictional family household near Enniscorthy, County Wexford",
+        "era": "1844",
+        "beat": "Eileen welcomes the bewildered Aoife into a household supported by weaving, seasonal labor, and a small potato plot, while Tomás teaches her to wind yarn without tangling it. When Mr. Keane arrives with a rent demand, Aoife notices that his ledger calls them 'Murphy' although their father carved 'Ó Murchadha' on the shuttle, and Eileen explains that neither spelling can pay their arrears.",
+        "history": "Ó Murchadha means 'descendant of Murchadh,' a personal name containing words for 'sea' and 'battle'; hereditary Irish surnames developed across different families, and English-language records often used anglicized forms."
+      },
+      {
+        "title": "The Empty Ridge",
+        "place": "County Wexford and Wexford town",
+        "era": "1845–1847",
+        "beat": "Repeated potato failures destroy the household’s food supply, and Aoife helps Eileen seek relief while rent arrears grow and Mr. Keane threatens eviction. A relative in Boston sends passage money for one person; Eileen and Tomás divide their late father’s shuttle as a promise to meet again, but the heirloom pulls Aoife onward before she sees where Tomás puts his half.",
+        "history": "The Great Famine of 1845–1852 combined potato blight with poverty, unequal access to resources, and inadequate relief, causing mass death and migration while many families remained in Ireland."
+      },
+      {
+        "title": "Beyond the Irish Sea",
+        "place": "Wexford to Liverpool, then Halifax and Boston",
+        "era": "1847",
+        "beat": "Aoife follows Eileen by coastal passage to Liverpool, where confusing tickets, lodging costs, and the fear of losing her remaining money make departure nearly fail. A prepaid berth aboard Cunard’s Britannia secures the Atlantic crossing through Halifax to Boston, but a violent storm forces Eileen to choose between protecting her bundle and helping a frightened fellow passenger.",
+        "history": "Liverpool was a major departure port for Irish emigrants, and Cunard’s Britannia served the Liverpool–Halifax–Boston route; passage conditions differed greatly between vessels and ticket classes."
+      },
+      {
+        "title": "A Room of Their Own",
+        "place": "Boston’s North End",
+        "era": "1847–1855",
+        "beat": "Eileen finds crowded lodgings and domestic work, but low wages, anti-Irish prejudice, and an employer who delays payment threaten her ability to send money home. With help from neighbors she secures better work and begins sending remittances to Tomás, whose letters reveal that staying in Wexford is a choice shaped by obligations—not a failure to be brave.",
+        "history": "Famine-era Irish immigrants in Boston often faced overcrowding, insecure employment, and nativist hostility, while remittances helped relatives survive and financed later migration."
+      },
+      {
+        "title": "The Green Traveling Case",
+        "place": "Boston, with letters and memories from County Wexford",
+        "era": "1918",
+        "beat": "The shuttle carries Aoife into an influenza-stricken Boston, where an elderly Eileen waits for Nora, Tomás’s granddaughter, who emigrated before the war and now tends sick households. Nora’s green case is mislaid during an emergency transfer; Aoife helps recover it and finds Tomás’s half inside, wrapped in his letter asking Nora to complete the reunion he never managed.",
+        "history": "Boston suffered severely during the 1918 influenza pandemic, and Irish migration continued across generations as family networks connected new arrivals with established communities."
+      },
+      {
+        "title": "The Whole Wave",
+        "place": "Boston, Massachusetts",
+        "era": "1918, then the present day",
+        "beat": "Nora gives Eileen the missing half, revealing that Tomás kept it throughout his life before entrusting it to his granddaughter, and Aoife helps their trembling hands fit the carved wave together. The completed shuttle opens her way home, where she finds it whole in the family trunk and begins recording the letters’ names and dates, determined to preserve both the relatives who left and those who stayed.",
+        "history": "Family letters, heirlooms, civil records, and census returns can help reconstruct a specific migration story, whereas surname meanings cannot prove an individual family’s route."
+      }
+    ]
+  },
+  "title": "The Sea Between Two Halves",
+  "tagline": "A broken weaving shuttle carries Aoife across an ocean—and into her family's unfinished promise.",
+  "coverUrl": "/presets/preset-murphy-leinster-wexford-cover.webp",
+  "castUrl": "/presets/preset-murphy-leinster-wexford-cast.webp",
+  "pages": [
+    {
+      "chapterTitle": "A Wave in the Wood",
+      "place": "Boston, Massachusetts; near Enniscorthy, County Wexford",
+      "year": "Present day; 1844",
+      "act": 1,
+      "recap": "Aoife Murphy is fourteen and lives in Boston. She wants to learn which people in her family's old letters made Boston their home.",
+      "heroOutfit": "A green raincoat over a cream cotton T-shirt, dark blue jeans, and black lace-up trainers. Her wild red curls are loose. Her outfit stays unchanged throughout the chapter.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Aoife's family kitchen, Boston, Massachusetts, present day",
+              "cast": [],
+              "scene": "The hero sits alone beside an open family trunk on the kitchen floor. Family letters, an old photograph, and a notebook surround her; rain streaks the window.",
+              "shot": "wide",
+              "caption": "Boston, today. Aoife Murphy, fourteen, searches her family trunk alone.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Who brought our family here?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aoife's family kitchen, Boston, Massachusetts, present day",
+              "cast": [],
+              "scene": "The hero lifts a photograph labeled Wexford from a bundle of letters. Beneath it lies a carefully wrapped wooden object.",
+              "shot": "medium",
+              "caption": "The family kept letters linking their Boston home to Ireland.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Wexford. That's in Ireland."
+                }
+              ],
+              "sfx": "RUSTLE"
+            },
+            {
+              "setting": "Aoife's family kitchen, Boston, Massachusetts, present day",
+              "cast": [],
+              "scene": "The hero unwraps half a polished wooden weaving shuttle, a tool for carrying thread through a loom. It has a brass tip, half a carved wave, and Ó Murchadha scratched along its edge; its broken end is clearly visible.",
+              "shot": "close-up",
+              "caption": "A weaving tool, saved with the letters. But only half remains.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Someone kept you for a reason."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aoife's family kitchen, Boston, Massachusetts, present day",
+              "cast": [],
+              "scene": "The hero follows the carved wave with her finger until it reaches the broken edge. Light suddenly shines from the wood.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Oh. That is not normal."
+                }
+              ],
+              "sfx": "HUM"
+            }
+          ],
+          "id": "3LPaWhHGfJ",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c1-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom; give panel 4 extra height for the magical climax while keeping all lettering comfortably readable.",
+            "locations": "One consistent location throughout: Aoife’s present-day Boston family kitchen on a rainy day. A modest, lived-in room with a rain-streaked window, muted gray daylight, and warm wooden cupboards and floor. Keep the open family trunk on the kitchen floor, with its letters, old photograph, notebook, and wrapped wooden shuttle as the recurring props; use restrained warm browns and cream tones against the cool gray window light.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide, slightly elevated establishing view of the kitchen floor and rain-streaked window. Aoife sits alone beside the open trunk, surrounded by scattered family letters, an old photograph, and a notebook; leave quiet space above her for the caption and dialogue.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "center, seated beside the trunk",
+                    "action": "A curious fourteen-year-old with freckles and loose wild red curls, wearing her unchanged green raincoat over a cream T-shirt, dark blue jeans, and black lace-up trainers. She looks down into the trunk with a thoughtful, slightly puzzled expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "upper-left"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium shot at floor level, focused on Aoife lifting a photograph labeled “Wexford” from a bundle of letters; the carefully wrapped wooden object is visible beneath it. Keep her face visible and reserve open space above her for lettering.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left-center, kneeling by the trunk",
+                    "action": "In the same green raincoat, cream T-shirt, dark blue jeans, and black trainers, she holds the photograph up and studies it with dawning interest."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "upper-right"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up of Aoife’s hands unwrapping the half-shuttle, with her attentive, recognizable face visible in the upper part of the frame. Clearly show the polished wood, brass tip, one carved wave, the scratched “Ó Murchadha,” and the unmistakably broken end; leave a clear area above her for the balloon and caption.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "upper-right, leaning into frame",
+                    "action": "Still in her unchanged outfit, she carefully unwraps the wooden tool and examines it with quiet wonder."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above the shuttle and clear of Aoife’s face",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "top-right"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Dramatic close-up: Aoife’s fingertip follows the carved wave to the shuttle’s broken edge as light suddenly shines from the wood. Include her visible face reacting in amazement; keep the luminous effect focused on the half-shuttle and leave open space for the dialogue balloon.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left side, face and hand close to the shuttle",
+                    "action": "In the same outfit and with the same loose red curls and freckles, she traces the carving, then recoils slightly with widened eyes and an astonished expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, away from the glowing shuttle and Aoife’s face",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": ""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Aoife's family kitchen, Boston, Massachusetts, present day",
+              "cast": [],
+              "scene": "Still gripping the shuttle half, the hero is pulled toward a bright, wave-shaped opening. The kitchen stretches into streaks of light, while her notebook stays on the floor.",
+              "shot": "wide",
+              "caption": "The broken edge pulls Aoife away from home.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Wait! I haven't packed!"
+                }
+              ],
+              "sfx": "WHOOSH"
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [],
+              "scene": "The hero lands on a stone floor beside a wooden handloom used to weave cloth. A hearth, bundles of yarn, and a small window replace her kitchen; she still holds the shuttle half.",
+              "shot": "wide",
+              "caption": "Near Enniscorthy, County Wexford, Ireland. 1844.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "That was definitely not our kitchen."
+                }
+              ],
+              "sfx": "THUMP"
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "Eileen Murphy approaches the hero beside the loom. Eileen is short and sturdy, with a freckled face, dark auburn hair braided around her head, and a blue wool shawl over a patched brown dress.",
+              "shot": "medium",
+              "caption": "Eileen Murphy, nineteen: Aoife's ancestor, though neither knows it yet.",
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Are you hurt?"
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "No. Where am I? What year is it?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "As Eileen answers, the hero presses the shuttle's broken edge again. A small glowing opening appears above it, but remains too narrow to enter.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Near Enniscorthy, in Wexford. It's 1844."
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "Please take me back to Boston."
+                }
+              ],
+              "sfx": "HUM"
+            }
+          ],
+          "id": "3wTSdPN1wG",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c1-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left-to-right, top-to-bottom; allow generous lettering space above the characters, especially in the two smaller middle panels.",
+            "locations": "Panel 1: Aoife’s present-day Boston family kitchen, warm wooden cabinets and a rain-streaked window behind her; the open family trunk and scattered letters lie on the floor beside her notebook. A bright, wave-shaped opening throws white-gold light across the room, stretching kitchen details into directional streaks. Panel 2–4: The same modest Murphy household near Enniscorthy, County Wexford, in 1844: a rough stone-floored room with a simple wooden handloom, a low hearth, yarn bundles and a small window set in a pale, timeworn stone wall. Muted earthy browns and grays, with cool daylight from the window and soft amber hearthlight; keep the loom, hearth, yarn and window in consistent positions across these panels. No modern objects in the 1844 room.",
+            "panels": [
+              {
+                "position": "Row 1, full width",
+                "composition": "Wide, dynamic view of the kitchen at the instant the wave-shaped opening pulls Aoife toward it. Use diagonal light streaks to convey motion, while the notebook remains clearly visible on the floor as an anchor; leave the upper-left relatively quiet for the caption and the upper-right for Aoife’s balloon.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "center-right foreground, being drawn toward the opening",
+                    "action": "Fourteen, with the same wild loose red curls, freckles, green raincoat over a cream T-shirt, dark blue jeans and black lace-up trainers; she grips the broken half-shuttle, reaches against the pull with her free hand, and looks alarmed as she shouts."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Aoife and clear of her face",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "upper-left corner"
+              },
+              {
+                "position": "Row 2, left half",
+                "composition": "Wide establishing view of the stone-floored 1844 room, with the handloom and hearth establishing the new setting. Aoife has just landed beside the loom; keep her face visible and leave the upper-left open for the caption and her balloon.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "center-left beside the handloom",
+                    "action": "In the unchanged green raincoat, cream T-shirt, dark blue jeans and black trainers, she braces herself after landing and holds the same shuttle half; she looks around in startled disbelief."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Aoife and clear of her face",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "upper-left corner"
+              },
+              {
+                "position": "Row 2, right half",
+                "composition": "Medium two-shot beside the loom, with both faces unobstructed and visible. Stage Eileen on the left and Aoife on the right, leaving a clear strip of wall above each for balloons and a small caption area at the top.",
+                "characters": [
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left, approaching Aoife",
+                    "action": "Nineteen, short and sturdy, round freckled face, dark auburn hair braided around her head, blue wool shawl over a patched brown dress; she leans forward with concern and asks if Aoife is hurt."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "right, turned toward Eileen",
+                    "action": "Same face, wild loose red curls and unchanged modern outfit; she looks confused but uninjured, still holding the shuttle half as she asks where and when she is."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "small box at top center, clear of both balloons"
+              },
+              {
+                "position": "Row 3, full width",
+                "composition": "Medium two-shot in the same room, tighter on the exchange. Eileen stands on the left answering; Aoife stands on the right and presses the shuttle’s broken edge, making a small, bright opening appear above it—glowing but far too narrow to enter. Preserve open wall space above each character for separate balloons.",
+                "characters": [
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left, facing Aoife",
+                    "action": "Same short, sturdy build, round freckled face, braided dark auburn hair, blue wool shawl and patched brown dress; she answers earnestly, watching Aoife and the glowing shuttle."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "right, facing Eileen",
+                    "action": "Same wild loose red curls, freckles and unchanged green raincoat, cream T-shirt, dark blue jeans and black trainers; she presses the broken edge of the shuttle with urgency and looks pleadingly at Eileen."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": ""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "The hero watches a clear picture form inside the tiny opening. It shows two shuttle halves joining into one complete wave, followed by a view of her Boston kitchen.",
+              "shot": "close-up",
+              "caption": "The light shows two halves joined—and Aoife's kitchen beyond them.",
+              "dialogue": [],
+              "sfx": null
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "The opening closes when the hero tries to reach through it. She holds her half firmly and turns toward Eileen.",
+              "shot": "medium",
+              "caption": "Half a wave cannot open the way home.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "I need both halves to get home."
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "Have you seen the other piece?"
+                }
+              ],
+              "sfx": "FIZZ"
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "Eileen bends to inspect the carved wave without taking the half from the hero. She points toward the loom.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Father carved that wave. Look beside the loom."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Murphy household near Enniscorthy, County Wexford, Ireland, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "The hero discovers an unbroken shuttle resting beside the loom, with the same brass tip, carved wave, and scratched family name. She holds her broken half beside it while Eileen watches: the markings match exactly.",
+              "shot": "close-up",
+              "caption": "Aoife needs the missing half. But here, the shuttle is still whole.",
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Ours isn't broken."
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "Then when does it break?"
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "FWPR8eWLQ2",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c1-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left-to-right, top-to-bottom.",
+            "locations": "One consistent location throughout: the Murphy household near Enniscorthy, County Wexford, Ireland, in 1844. A modest stone-walled cottage with an earthen floor, a low hearth, a small deep-set window, and a sturdy wooden handloom. Bundles of yarn and folded cloth sit neatly beside the loom; keep the rest of the room sparse. Cool daylight enters through the small window, balanced by a soft amber hearth glow. Muted stone gray, warm brown wood, cream cloth, and the deep blue of Eileen’s shawl; no modern objects appear except the Boston kitchen image inside the magical opening in panel 1.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Close-up focused on Aoife’s curious face, her hand holding the shuttle half, and the tiny glowing opening. Inside the opening, clearly depict the two carved shuttle halves joining into a complete wave, then a distinct glimpse of Aoife’s present-day Boston kitchen; keep the magical image contained within the opening.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "right foreground",
+                    "action": "Her green raincoat sleeve and shuttle-holding hand fill the lower foreground; her wild red curls and freckled face are visible as she watches the image with widened, fascinated eyes."
+                  }
+                ],
+                "balloons": [],
+                "captionPlacement": "top-left corner, in a clear area of wall"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium two-shot at eye level. Show the tiny opening fading shut as Aoife reaches toward it, making the failed attempt instantly clear; Eileen remains visible beside her. Leave clean space above both characters for two readable balloons.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "Still wearing the same green raincoat, cream T-shirt, dark blue jeans, and black lace-up trainers, she firmly grips her shuttle half and turns toward Eileen, worried and determined."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "right foreground",
+                    "action": "Short and sturdy, with a round freckled face, dark auburn hair braided around her head, blue wool shawl, and patched brown dress; she listens with concern."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper center, slightly left",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "bottom-left corner, clear of both figures"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium shot angled toward Eileen and the loom, with both Eileen’s pointing hand and Aoife’s shuttle half visible. Keep Eileen’s face unobstructed and leave open wall space above her for the balloon.",
+                "characters": [
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left foreground",
+                    "action": "She bends slightly to inspect the carved wave without touching or taking Aoife’s shuttle half, then points toward the wooden loom; her expression is intent and helpful."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "right foreground",
+                    "action": "She holds the broken half close and follows Eileen’s gesture with an attentive, questioning look."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Eileen Murphy"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Close-up on the loom-side discovery: the unbroken shuttle rests beside the loom, with its brass tip, carved wave, and scratched family name clearly visible. Aoife holds her broken half alongside it so the matching markings align plainly; Eileen watches in the background with her face visible, and leave open space above each speaker for the two balloons.",
+                "characters": [
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left background, face visible above the loom-side objects",
+                    "action": "She leans in to watch the two shuttles being compared, looking surprised and certain of what she sees."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "right foreground",
+                    "action": "She holds her broken shuttle half beside the intact shuttle, eyes moving between the matching marks and Eileen, her expression shifting from hope to puzzled urgency."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Eileen Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "bottom-left corner, below the shuttle comparison and clear of the dialogue"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? Letters can lead home",
+        "body": "Boston became a major home for Irish immigrants and their descendants, especially during and after the Great Famine of 1845–1852. Family letters can preserve names, places, and clues about migration. Sharing the surname Murphy does not, by itself, prove that two people share a particular ancestor."
+      },
+      "dialectWord": null,
+      "quiz": {
+        "question": "What does Aoife need to open her way home?",
+        "options": [
+          "A ticket to Boston",
+          "Both halves of the shuttle joined together",
+          "A new green raincoat"
+        ],
+        "answerIndex": 1,
+        "explanation": "The shuttle's light shows the joined halves opening a way to Aoife's kitchen."
+      },
+      "choices": [
+        "Touch the whole shuttle and risk another journey.",
+        "Ask Eileen about the carved name and her father.",
+        "Offer to help Eileen weave while explaining what happened."
+      ],
+      "isFinale": false,
+      "id": "mfjh3k4tIW",
+      "prompt": null
+    },
+    {
+      "chapterTitle": "The Name at the Loom",
+      "place": "Near Enniscorthy, County Wexford, Ireland",
+      "year": "1844",
+      "act": 2,
+      "recap": "Aoife needs the shuttle's missing half to return to Boston. But in Eileen's weaving room in 1844, the family shuttle is still whole.",
+      "heroOutfit": "A green raincoat over a cream cotton T-shirt, dark blue jeans, and black lace-up trainers. Her wild red curls are loose. Her outfit stays unchanged throughout the chapter.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "A wooden loom fills the small room, with yarn hanging beside it. The hero holds her broken shuttle half and reaches toward the whole shuttle that Eileen Murphy has shown her.",
+              "shot": "wide",
+              "caption": "Near Enniscorthy, Wexford. 1844. Aoife risks touching the whole shuttle.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Maybe you can take me home."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "The hero touches the whole shuttle. Light rises from its carved wave, showing two hands pulling its broken halves apart.",
+              "shot": "close-up",
+              "caption": "The wood shows Aoife a glimpse of its future.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Someone breaks it on purpose!"
+                },
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "What are you seeing?"
+                }
+              ],
+              "sfx": "HUM"
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy"
+              ],
+              "scene": "The light disappears as the hero lifts her hand. The whole shuttle remains on the loom; her broken half remains in her other hand.",
+              "shot": "medium",
+              "caption": "No journey. No joined halves. Aoife is still far from home.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "I need to learn why it breaks."
+                },
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Stay with us. We'll work it out."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Tomás Murphy"
+              ],
+              "scene": "Tomás Murphy enters carrying yarn, his oversized gray jacket open above his rust-colored neckerchief. He offers the hero an empty wooden bobbin for winding thread.",
+              "shot": "medium",
+              "caption": "Tomás Murphy, fourteen: Eileen's younger brother and another of Aoife's ancestors.",
+              "dialogue": [
+                {
+                  "speaker": "Tomás Murphy",
+                  "text": "Can you wind yarn?"
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "How hard can it be?"
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "zx2RLGG4rq",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c2-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Keep lettering clear and generously sized; read left-to-right, then top-to-bottom.",
+            "locations": "All panels take place in the same modest Murphy family weaving room near Enniscorthy, County Wexford, in 1844. The small room has rough whitewashed stone walls, a low exposed-beam ceiling, an earthen floor, and one narrow window admitting cool, soft daylight. A large, weathered wooden handloom dominates the room, with yarn hanging from pegs beside it and a few simple baskets of wool kept unobtrusively near the wall. The whole wooden shuttle rests on the loom; its brass tip, carved wave, and scratched family name match the broken half Aoife holds. The atmosphere is quiet and intimate, with muted browns, stone creams, and wool blues; magical light, when present, is a restrained pale gold rising from the carved wave.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view at eye level, with the loom anchoring the center and enough open wall above the characters for the caption and dialogue. The moment feels tentative and hopeful; keep both shuttle pieces clearly visible between Aoife and Eileen.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground, beside the loom",
+                    "action": "A friendly, curious fourteen-year-old with freckles and loose wild red curls, wearing the same green raincoat, cream cotton T-shirt, dark blue jeans, and black lace-up trainers throughout. She holds her broken shuttle half in one hand and cautiously reaches with the other toward the whole shuttle, her face hopeful and a little uncertain."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "right of the loom, facing Aoife",
+                    "action": "A short, sturdy nineteen-year-old with a round freckled face and dark auburn hair braided around her head, in a blue wool shawl over a patched brown dress. She watches Aoife closely, one hand indicating the whole shuttle without taking it."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "top-right corner"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up on Aoife’s hand touching the carved wave on the whole shuttle, with her intent face clearly visible in the left background and Eileen’s attentive face visible on the right. Pale gold light rises from the carving and forms a small, legible vision of two hands pulling the shuttle’s broken halves apart; keep the vision distinct from the characters and lettering.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left side, face visible above her reaching hand",
+                    "action": "She has just touched the shuttle; her eyes widen in alarm as she sees the vision. Her broken half remains in her other hand."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "right side, leaning toward Aoife",
+                    "action": "She studies Aoife’s startled expression with concern, keeping her face unobscured."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left, above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right, above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  }
+                ],
+                "captionPlacement": "bottom-left, beneath the vision and clear of the hands"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium two-shot at eye level, returning to the same loom and room. The magical glow has vanished; Aoife lifts her hand from the whole shuttle while the whole shuttle stays on the loom and her broken half remains in her other hand.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left, beside the loom",
+                    "action": "She looks from the broken half in her hand to the whole shuttle, thoughtful and determined, with her lifted hand still hovering above it."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "right, turned warmly toward Aoife",
+                    "action": "She offers reassurance with a steady, open expression and a supportive gesture."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left, above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right, above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  }
+                ],
+                "captionPlacement": "bottom-center, in open floor space"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium-wide view toward the doorway and loom. Tomás enters from the left carrying yarn and offering an empty wooden bobbin toward Aoife; Aoife stands to the right, ready to take it. Keep both faces and the offered bobbin prominent, with uncluttered wall space above for balloons.",
+                "characters": [
+                  {
+                    "name": "Tomás Murphy",
+                    "position": "left foreground, just inside the doorway",
+                    "action": "A lanky fourteen-year-old with a narrow face, straight black hair, and a conspicuous gap between his front teeth. He wears an oversized open gray jacket over a rust-colored neckerchief, carries yarn, and offers Aoife an empty wooden bobbin with an easy, practical expression."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "right foreground, facing Tomás",
+                    "action": "In her unchanged green raincoat, cream T-shirt, dark blue jeans, and black lace-up trainers, she turns toward the bobbin with a curious, lightly amused expression and reaches to accept it."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Tomás",
+                    "pointsTo": "Tomás Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "bottom-left corner"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Tomás Murphy"
+              ],
+              "scene": "The hero turns the bobbin too quickly and tangles yarn around her fingers. Tomás Murphy points at the loose loop caught beneath her thumb.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "The yarn has caught me."
+                },
+                {
+                  "speaker": "Tomás Murphy",
+                  "text": "Slowly. Let it slide through your fingers."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Tomás Murphy"
+              ],
+              "scene": "The hero carefully winds a neat layer of yarn. Behind her, Eileen Murphy works at the loom; an open doorway shows a small potato plot.",
+              "shot": "wide",
+              "caption": "Weaving and seasonal work bring money. Their potato plot supplies much food.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "One useful thing before I go home."
+                },
+                {
+                  "speaker": "Tomás Murphy",
+                  "text": "Only several hundred turns left."
+                }
+              ],
+              "sfx": "CLACK"
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Mr. Keane"
+              ],
+              "scene": "Mr. Keane steps into the doorway in his dark fitted coat, carrying a leather rent ledger. Eileen Murphy stops the loom while the hero holds the bobbin still.",
+              "shot": "medium",
+              "caption": "Mr. Keane: the estate agent who collects rent from Eileen's family.",
+              "dialogue": [
+                {
+                  "speaker": "Mr. Keane",
+                  "text": "Your rent is overdue."
+                },
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "The cloth isn't sold yet."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Mr. Keane"
+              ],
+              "scene": "Mr. Keane opens the ledger and points to the family's unpaid rent. The hero notices the name Murphy beside the amount, then looks at the Irish name scratched on her shuttle half.",
+              "shot": "close-up",
+              "caption": "Two names catch Aoife's eye: Murphy and Ó Murchadha.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Wait. Have you written the wrong family name?"
+                },
+                {
+                  "speaker": "Mr. Keane",
+                  "text": "That is their account."
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "e-Q1vAKKHV",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c2-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panel 2, full width. Row 3: panel 3, full width. Row 4: panel 4, full width. Keep all four panels generous enough for readable lettering; vary their heights so panel 2 has room for the loom and doorway, while panels 3–4 carry increasing dramatic weight.",
+            "locations": "One continuous location: the Murphy family weaving room near Enniscorthy, County Wexford, in 1844. A small, plain stone cottage room with a low timber ceiling, rough plastered walls, packed-earth floor, and a wooden handloom occupying the rear wall; undyed yarn hangs beside it. A worn worktable and a small wooden bobbin sit in the foreground. The open doorway is on the right wall, with a modest potato plot visible outside in soft daylight. Cool, overcast daylight enters through the doorway and a small window, muted earth browns and gray stone contrasted with the blue shawl and yarn. Keep the loom, yarn, table, doorway, plot, and light consistent in every panel.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Close-up at worktable height, framing Aoife’s hands, bobbin, and clearly visible face; the tangled yarn conveys a small comic mishap. Leave open wall space above each character for balloons.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "In her unchanged green raincoat over a cream T-shirt, dark blue jeans, and black lace-up trainers; wild loose red curls and freckles. She turns the bobbin too quickly, yarn looped around her fingers, and looks down at it with curious concern."
+                  },
+                  {
+                    "name": "Tomás Murphy",
+                    "position": "right foreground",
+                    "action": "Lanky, narrow-faced, straight black-haired fourteen-year-old in an oversized gray jacket and rust-colored neckerchief; conspicuous gap between his front teeth. He points gently at the loose loop beneath Aoife’s thumb, looking patient and instructive."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Tomás Murphy",
+                    "pointsTo": "Tomás Murphy"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, full width",
+                "composition": "Wide view of the room, with Aoife and Tomás in the foreground and the loom clearly visible behind them; the open doorway and potato plot remain visible at right. Keep the caption in clear upper wall space, with dialogue balloons above the two speakers and away from faces.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "Winds a neat, careful layer of yarn onto the bobbin, concentrating with a small, determined smile; same unchanged hero appearance and outfit."
+                  },
+                  {
+                    "name": "Tomás Murphy",
+                    "position": "right foreground",
+                    "action": "Watches the winding with a teasing, encouraging grin, his posture relaxed; same gray jacket, rust neckerchief, straight black hair, and front-tooth gap."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "rear left at the loom",
+                    "action": "Nineteen, short and sturdy, round freckled face, dark auburn hair braided around her head, blue wool shawl over a patched brown dress. She works steadily at the loom, focused on her weaving."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Tomás Murphy",
+                    "pointsTo": "Tomás Murphy"
+                  }
+                ],
+                "captionPlacement": "small box at upper center, on clear wall space above the loom; avoid the doorway and faces"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium shot facing the doorway, with Mr. Keane entering from the right and the loom and family work visible to the left. Stage Eileen and Mr. Keane as the two speakers on opposite sides, faces unobstructed; Aoife’s still-held bobbin anchors the foreground.",
+                "characters": [
+                  {
+                    "name": "Mr. Keane",
+                    "position": "right, in the doorway",
+                    "action": "Tall and angular, sandy side-whiskers, thin lips, dark fitted coat, leather rent ledger tucked beneath one arm. He steps into the room with a stern, controlled expression."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left beside the loom",
+                    "action": "Stops the loom mid-work and turns toward him, guarded and worried; same round freckled face, braided dark auburn hair, blue wool shawl, and patched brown dress."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "center foreground",
+                    "action": "Holds the bobbin still and looks toward Mr. Keane with alert concern; same unchanged outfit, loose red curls, and freckles."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right over doorway space",
+                    "pointsTo": "Mr. Keane"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-left above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  }
+                ],
+                "captionPlacement": "small box at top center, in clear wall space above the loom, separate from the balloons"
+              },
+              {
+                "position": "row 4, full width",
+                "composition": "Tight close-up of the open leather ledger in Mr. Keane’s hands, with the written family name and amount readable as visual cues; Aoife’s face and the scratched Ó Murchadha on her broken shuttle half are both clearly visible. Mr. Keane remains at right and Aoife at left, with open space above each for balloons; make the discovery feel tense and focused.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "Notices “Murphy” beside the unpaid amount in the ledger, then raises her gaze toward Mr. Keane while holding her shuttle half so its scratched Irish name, “Ó Murchadha,” is visible; curious, suddenly intent expression. Same unchanged hero outfit and features."
+                  },
+                  {
+                    "name": "Mr. Keane",
+                    "position": "right foreground",
+                    "action": "Opens the leather ledger and points firmly to the family’s unpaid rent entry, looking matter-of-fact and unsympathetic; same angular face, sandy side-whiskers, thin lips, and dark fitted coat."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Mr. Keane",
+                    "pointsTo": "Mr. Keane"
+                  }
+                ],
+                "captionPlacement": "small box at top center in an uncluttered strip above the ledger and between the balloons"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Mr. Keane"
+              ],
+              "scene": "Eileen Murphy places the whole shuttle beside the ledger, letting the hero compare the names. Mr. Keane keeps his finger on the unpaid amount.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "Murphy is our name in English. Father's carving is Irish."
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "So the spelling won't clear the debt."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Mr. Keane"
+              ],
+              "scene": "The hero points to the nearly finished cloth on the loom, offering a practical plan. Eileen Murphy stands beside her while Mr. Keane closes his ledger.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "I'll help finish the cloth. Give us more time."
+                },
+                {
+                  "speaker": "Mr. Keane",
+                  "text": "The debt remains. I'll return."
+                }
+              ],
+              "sfx": "THUMP"
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844",
+              "cast": [
+                "Eileen Murphy",
+                "Tomás Murphy"
+              ],
+              "scene": "After Mr. Keane leaves, the hero hands her neatly wound bobbin to Eileen Murphy. Tomás Murphy looks toward the potato plot through the doorway.",
+              "shot": "medium",
+              "caption": "Aoife cannot erase the debt, but she can help finish the cloth.",
+              "dialogue": [
+                {
+                  "speaker": "Eileen Murphy",
+                  "text": "We need this cloth and a good harvest."
+                },
+                {
+                  "speaker": "Aoife",
+                  "text": "Then let's keep working."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Family weaving room near Enniscorthy, County Wexford, 1844; magical glimpse of the potato plot in 1845",
+              "cast": [
+                "Eileen Murphy",
+                "Tomás Murphy"
+              ],
+              "scene": "As the hero reaches for more yarn, her broken shuttle edge shines without being touched. Within the light, the same potato plot appears with blackened, drooping plants; Eileen Murphy and Tomás Murphy watch the hero stare at it.",
+              "shot": "wide",
+              "caption": "The shuttle reveals next year's plot: Wexford, 1845.",
+              "dialogue": [
+                {
+                  "speaker": "Aoife",
+                  "text": "Something happens to your potatoes."
+                },
+                {
+                  "speaker": "Tomás Murphy",
+                  "text": "What do you mean?"
+                }
+              ],
+              "sfx": "HUM"
+            }
+          ],
+          "id": "KWc2HbIcq3",
+          "imageUrl": "/presets/preset-murphy-leinster-wexford-c2-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width and largest for the magical reveal. Reading order left-to-right, top-to-bottom.",
+            "locations": "Panels 1–3 share the Murphy family weaving room near Enniscorthy, County Wexford, in 1844: a low-ceilinged stone cottage room with a timber loom, nearly finished cloth, spinning and weaving tools, a small table holding the leather rent ledger, and an open doorway onto a modest potato plot. Soft, overcast daylight enters through the doorway; the room is dim and earthy in muted stone gray, brown, and wool blue. Panel 4 remains in the same room and shows a magical glimpse of that same plot in 1845 within the shuttle’s light: the plants are blackened and drooping beneath a pale, cold sky. Keep the loom, doorway, table, and plot in consistent positions and appearance across panels.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Medium two-shot at table height, with the ledger and shuttle clear in the foreground. Eileen and Aoife face one another; Mr. Keane is visible at the right edge, keeping his finger on the unpaid amount.",
+                "characters": [
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "left foreground",
+                    "action": "A short, sturdy nineteen-year-old with a round freckled face, dark auburn hair braided around her head, blue wool shawl, and patched brown dress. She places the whole shuttle beside the ledger and speaks with steady, explanatory warmth."
+                  },
+                  {
+                    "name": "Aoife",
+                    "position": "center-left",
+                    "action": "A curious fourteen-year-old with wild loose red curls and freckles, wearing the same green raincoat, cream cotton T-shirt, dark blue jeans, and black lace-up trainers throughout. She compares the names on the shuttle and ledger, then looks up with a worried, thoughtful expression."
+                  },
+                  {
+                    "name": "Mr. Keane",
+                    "position": "right foreground",
+                    "action": "A tall, angular forty-five-year-old with sandy side-whiskers, thin lips, a dark fitted coat, and leather rent ledger under one arm. His finger remains firmly on the unpaid amount; his expression is stern."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-middle above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium shot angled toward the loom, keeping the nearly finished cloth prominent between Aoife and Eileen. Aoife’s pointing hand leads the eye to the cloth; Mr. Keane closes the ledger in the right background, his face clearly visible.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "In her unchanged green raincoat, cream T-shirt, dark blue jeans, and black lace-up trainers, she points hopefully to the nearly finished cloth and appeals to the others with an earnest expression."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "center",
+                    "action": "In her blue wool shawl and patched brown dress, she stands beside Aoife, watching her with a worried but attentive expression."
+                  },
+                  {
+                    "name": "Mr. Keane",
+                    "position": "right foreground",
+                    "action": "His sandy side-whiskers and angular face clearly visible, he closes the leather ledger with controlled finality."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Mr. Keane",
+                    "pointsTo": "Mr. Keane"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium shot looking toward the open doorway after Keane has left; the empty doorway and potato plot remain readable behind the family. Aoife hands Eileen the neatly wound bobbin in the foreground, while Tomás turns toward the plot.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "Still in her unchanged chapter outfit, she offers Eileen a neatly wound bobbin with a small, determined smile."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "center-right foreground",
+                    "action": "She receives the bobbin, her freckled face tired but resolute beneath the braided auburn hair and blue wool shawl."
+                  },
+                  {
+                    "name": "Tomás Murphy",
+                    "position": "right background near doorway",
+                    "action": "A lanky fourteen-year-old with a narrow face, straight black hair, and a conspicuous gap between his front teeth, wearing a rust-colored neckerchief and oversized gray jacket. He looks toward the potato plot with concern."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right above Eileen",
+                    "pointsTo": "Eileen Murphy"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-left above Aoife",
+                    "pointsTo": "Aoife"
+                  }
+                ],
+                "captionPlacement": "top-left corner, clear of the characters and doorway"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Wide dramatic shot of the weaving room, with Aoife and the broken shuttle in the foreground and the open doorway framing the magical vision of the 1845 potato plot. The shuttle edge glows without being touched; inside its light, the same plot appears with blackened, drooping plants. Eileen and Tomás watch Aoife’s startled gaze, their faces visible.",
+                "characters": [
+                  {
+                    "name": "Aoife",
+                    "position": "left foreground",
+                    "action": "In her unchanged green raincoat, cream T-shirt, dark blue jeans, and black lace-up trainers, she reaches toward the yarn and then stares in alarm at the shining broken shuttle edge."
+                  },
+                  {
+                    "name": "Eileen Murphy",
+                    "position": "center-right",
+                    "action": "In her blue wool shawl and patched brown dress, she turns from the loom toward Aoife and the vision, visibly startled."
+                  },
+                  {
+                    "name": "Tomás Murphy",
+                    "position": "right foreground",
+                    "action": "In his oversized gray jacket and rust-colored neckerchief, he watches Aoife with a puzzled, worried expression; his gap-toothed face is clearly visible."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Aoife",
+                    "pointsTo": "Aoife"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Tomás",
+                    "pointsTo": "Tomás Murphy"
+                  }
+                ],
+                "captionPlacement": "top-left corner, outside the shuttle’s glow"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? One name, different forms",
+        "body": "Murphy is an English-language form of the Irish surname Ó Murchadha, meaning “descendant of Murchadh.” The personal name Murchadh contains Irish words for “sea” and “battle.” English-language records often used forms such as Murphy without the Ó prefix. Different Irish families developed this surname, so there was no single ancestor of every Murphy."
+      },
+      "dialectWord": {
+        "language": "Irish",
+        "term": "Ó",
+        "script": "Ó",
+        "meaning": "Descendant of; used at the beginning of many Irish surnames."
+      },
+      "quiz": {
+        "question": "Why does the ledger say Murphy while the shuttle says Ó Murchadha?",
+        "options": [
+          "Mr. Keane wrote down a different family.",
+          "Murphy is an English-language form of the Irish surname.",
+          "The family changed its name to escape rent."
+        ],
+        "answerIndex": 1,
+        "explanation": "English-language records often used Murphy where an Irish name appeared as Ó Murchadha."
+      },
+      "choices": [
+        "Touch the shining edge and follow the threatened harvest.",
+        "Ask Tomás what he knows about growing potatoes.",
+        "Help Eileen finish the cloth before following the vision."
+      ],
+      "isFinale": false,
+      "id": "VpjqEdCCGb",
+      "prompt": "Touch the whole shuttle and risk another journey."
+    }
+  ],
+  "isPublic": true,
+  "createdAt": "2026-10-11T06:21:00.312Z",
+  "updatedAt": "2026-10-11T06:21:00.312Z",
+  "isFeatured": true
+}

@@ -1,0 +1,1471 @@
+{
+  "id": "preset-kim-gimhae-kim",
+  "version": 1,
+  "hero": {
+    "name": "Joon",
+    "surname": "Kim",
+    "pronouns": "he",
+    "look": "16, short black hair, round glasses, headphones around his neck",
+    "home": "Toronto"
+  },
+  "heritage": {
+    "id": "gimhae-kim",
+    "name": "Gimhae Kim clan",
+    "nativeName": "김해 김씨",
+    "spelling": "Kim",
+    "homeland": "Gimhae, South Gyeongsang Province, southeastern Korea",
+    "migrationStory": "Branches spread from southeastern Korea throughout the peninsula over many centuries. Some descendants later joined Korean migration to China, the Russian Far East, Japan and the Americas.",
+    "likelihood": "high",
+    "funFact": "This is Korea’s largest Kim clan, and its traditional founder is King Suro of Gaya."
+  },
+  "research": {
+    "surname": "Kim",
+    "nativeScript": "김 (金)",
+    "culture": "Korean",
+    "meaning": "The surname is written with 金, the Chinese character meaning “gold” or “metal.” In Korean, this character is pronounced Gim when used as this surname, although Kim is the established international spelling.",
+    "summary": "Kim is South Korea’s most common surname, borne by about one in five people in the 2015 census. It includes many distinct ancestral clans, identified by a bon-gwan—an ancestral seat—rather than descending from one shared founder.",
+    "originStory": "Two major Kim traditions trace their beginnings to ancient kingdoms in southeastern Korea. The Gimhae Kim clan claims descent from King Suro, the legendary founder of Geumgwan Gaya in 42 CE, whose founding story describes golden eggs descending from heaven. The Gyeongju Kim clan traces its ancestry to Kim Alji, reportedly discovered in a golden chest in a forest in 65 CE; his descendants later ruled Silla. These are treasured foundation legends, not independently verified accounts.",
+    "romanizations": [
+      {
+        "label": "Established international spelling",
+        "spelling": "Kim"
+      },
+      {
+        "label": "Revised Romanization",
+        "spelling": "Gim"
+      },
+      {
+        "label": "McCune–Reischauer",
+        "spelling": "Kim"
+      }
+    ],
+    "timeline": [
+      {
+        "era": "42 CE, according to tradition",
+        "event": "King Suro establishes Geumgwan Gaya at present-day Gimhae; Gimhae Kim genealogies identify him as their founder."
+      },
+      {
+        "era": "65 CE, according to tradition",
+        "event": "Kim Alji’s discovery in a golden chest becomes the founding legend of the Gyeongju Kim clan."
+      },
+      {
+        "era": "356–935",
+        "event": "Beginning with King Naemul, Kim rulers dominate Silla’s monarchy until the kingdom’s surrender to Goryeo."
+      },
+      {
+        "era": "Late 1800s–early 1900s",
+        "event": "Korean migrants, including Kim families, settle in the Russian Far East, China and Hawaii; organized Korean immigration to Hawaii begins in 1903."
+      },
+      {
+        "era": "1937",
+        "event": "Soviet authorities forcibly deport approximately 172,000 ethnic Koreans from the Russian Far East to Central Asia, including many Kim families."
+      },
+      {
+        "era": "1960s–present",
+        "event": "Migration expands Korean communities in North America, Europe and elsewhere; South Korea’s 2015 census records approximately 10.7 million people surnamed Kim."
+      }
+    ],
+    "heritageOptions": [
+      {
+        "id": "gimhae-kim",
+        "name": "Gimhae Kim clan",
+        "nativeName": "김해 김씨",
+        "spelling": "Kim",
+        "homeland": "Gimhae, South Gyeongsang Province, southeastern Korea",
+        "migrationStory": "Branches spread from southeastern Korea throughout the peninsula over many centuries. Some descendants later joined Korean migration to China, the Russian Far East, Japan and the Americas.",
+        "likelihood": "high",
+        "funFact": "This is Korea’s largest Kim clan, and its traditional founder is King Suro of Gaya."
+      },
+      {
+        "id": "gyeongju-kim",
+        "name": "Gyeongju Kim clan",
+        "nativeName": "경주 김씨",
+        "spelling": "Kim",
+        "homeland": "Gyeongju, North Gyeongsang Province—the former Silla capital",
+        "migrationStory": "Branches dispersed across Korea during the Goryeo and Joseon periods. In modern times, descendants also joined wider Korean migration to Japan, North America and other destinations.",
+        "likelihood": "medium",
+        "funFact": "Gyeongju’s Gyerim grove is associated with the legend of the clan ancestor Kim Alji."
+      },
+      {
+        "id": "gwangsan-kim",
+        "name": "Gwangsan Kim clan",
+        "nativeName": "광산 김씨",
+        "spelling": "Kim",
+        "homeland": "Gwangsan, in present-day Gwangju, southwestern Korea",
+        "migrationStory": "Branches established homes beyond their ancestral seat, including in the Chungcheong region, during the Joseon period. Modern descendants have also settled overseas through the broader Korean diaspora.",
+        "likelihood": "medium",
+        "funFact": "The influential Joseon scholar Kim Jang-saeng belonged to this clan."
+      }
+    ],
+    "famousBearers": [
+      {
+        "name": "Kim Yuna",
+        "note": "South Korean figure skater and 2010 Olympic champion."
+      },
+      {
+        "name": "Kim Dae-jung",
+        "note": "South Korean president and recipient of the 2000 Nobel Peace Prize."
+      },
+      {
+        "name": "Kim Nam-joon",
+        "note": "Known as RM, the rapper and leader of BTS."
+      }
+    ],
+    "funFacts": [
+      "Sharing the surname Kim does not automatically mean two people belong to the same ancestral clan.",
+      "A bon-gwan names an ancestral seat, not necessarily a person’s birthplace or current home.",
+      "Korean names traditionally place the family name first, so Kim comes before the given name.",
+      "The same character 金 is usually pronounced geum when it means gold in ordinary Korean vocabulary.",
+      "South Korea’s Constitutional Court ruled against the same-surname, same-clan marriage prohibition in 1997; current restrictions focus on close kinship."
+    ],
+    "caveat": "Kim strongly suggests Korean heritage, but the spelling alone cannot identify your clan or establish ancestry. Your family’s bon-gwan, genealogical register (jokbo), or older family records would help distinguish the many Kim lineages; Kim also occurs in other naming traditions, including Vietnamese."
+  },
+  "outline": {
+    "title": "The Fish That Carried Home",
+    "tagline": "Two brass halves carry Joon through a century of leaving—and belonging.",
+    "logline": "When sixteen-year-old Joon Kim discovers half a brass fish in Toronto, it pulls him into a fictional family's journey rooted in the real history of Korea and Korean migration to Canada. To return home, he must follow successive generations from Gimhae through occupation, war, and resettlement—and discover why someone cut their family treasure in two.",
+    "heirloom": {
+      "name": "The Split Brass Fish",
+      "description": "A palm-sized brass fish with hand-punched scales, a round eye, and 김해 scratched beneath its belly; Joon finds only the head half, hanging from a faded blue cord. Made as a personal family keepsake rather than a traditional clan artifact, it warms whenever a descendant tells its story and carries Joon forward to another moment in its history. Joining it to its missing tail will take him home."
+    },
+    "mystery": "Why was the brass fish cut in half?",
+    "cast": [
+      {
+        "name": "Dae Kim",
+        "role": "Joon's great-great-grandfather; a Gimhae metalworker and the fish's maker",
+        "look": "Twelve in 1894, twenty-eight in 1910, and sixty-eight in 1950; lean, with a long face, prominent ears, and a crescent scar on his left thumb. His straight black hair becomes silver; a patched indigo work vest remains his visual signature."
+      },
+      {
+        "name": "Sun Kim",
+        "role": "Dae's daughter and Joon's great-grandmother; the ancestor Joon bonds with most closely",
+        "look": "Twenty-eight in 1950, twenty-nine in 1951, and fifty-two in 1974; short and sturdy, with broad cheekbones and a straight black bob that later grays. Wears a mustard cardigan and carries a rectangular wooden sewing box."
+      },
+      {
+        "name": "Min Kim",
+        "role": "Sun's son and Joon's grandfather; a refugee child who later immigrates to Toronto",
+        "look": "Four in 1950, five in 1951, and twenty-eight in 1974; round-faced, with large dark eyes and an unruly forelock. A blue cloth scarf follows him from childhood into adulthood; in Toronto he wears a brown corduroy jacket."
+      },
+      {
+        "name": "Aunt Hana",
+        "role": "Joon's aunt in Toronto; keeper of the family's surviving objects",
+        "look": "Fifty-four, tall, with a square jaw, silver-streaked black hair in a low bun, red rectangular glasses, and a green knitted vest with oversized pockets."
+      }
+    ],
+    "acts": [
+      {
+        "title": "A Fish Without a Tail",
+        "place": "Koreatown, Bloor Street West, Toronto",
+        "era": "Present day",
+        "beat": "Helping Aunt Hana sort family belongings, Joon—short black hair, round glasses, headphones around his neck—finds half a brass fish beside an incomplete genealogy identifying the family's bon-gwan as Gimhae. When he asks why the fish was cut, it burns warm and drops him into a Gimhae workshop, leaving him with one clear goal: find its missing tail and get home.",
+        "history": "A bon-gwan identifies an ancestral seat rather than a person's birthplace, and sharing the surname Kim does not establish membership in the same clan."
+      },
+      {
+        "title": "Gold Is Not a Crown",
+        "place": "Gimhae, southeastern Korea",
+        "era": "1894",
+        "beat": "Joon meets twelve-year-old Dae, who makes the fish from a scrap of brass while helping in a metalworking shop, and earns his trust by rescuing the unfinished keepsake from spilled charcoal. Near the traditionally identified tomb of King Suro, Dae shares the golden-egg founding story; Joon initially expects royal treasure, but discovers that this family's precious inheritance is skilled work and a story of belonging.",
+        "history": "Gimhae Kim genealogies traditionally trace their origin to King Suro's foundation of Geumgwan Gaya in 42 CE, but the golden-egg account is a foundation legend rather than independently verified history."
+      },
+      {
+        "title": "The Road to the Port",
+        "place": "Gimhae and Busan",
+        "era": "1910",
+        "beat": "The fish carries Joon to grown-up Dae, whose small workshop cannot reliably support his household and who seeks repair work in nearby Busan as Japan formally annexes Korea. Joon helps save Dae's tools from a rain-swollen stream on the road, but their arrival brings a harder discovery: changing addresses cannot shield the family from colonial rule.",
+        "history": "Japan annexed Korea in 1910 and ruled it until 1945, while Busan's expanding colonial port economy drew workers from surrounding districts."
+      },
+      {
+        "title": "A Bridge Behind Them",
+        "place": "Seoul, then roads south toward Busan",
+        "era": "June–winter 1950",
+        "beat": "The next jump reveals that Dae's family moved to Seoul for work in the 1930s; now Joon joins Dae, Sun, and little Min in fleeing the Korean War, with the destroyed Hangang bridge cutting off their intended crossing. Crowded roads, scarce food, and advancing armies force repeated detours, and during a chaotic separation Joon loses sight of Dae—then notices that Sun is carrying only the fish's head.",
+        "history": "The Korean War began on June 25, 1950, and South Korean forces destroyed the Hangang bridge on June 28 while civilians were still fleeing Seoul."
+      },
+      {
+        "title": "A Home Made of Scraps",
+        "place": "Refugee settlements and markets, Busan",
+        "era": "1951",
+        "beat": "In crowded wartime Busan, Sun repairs clothes near Gukje Market while Joon watches Min and helps turn discarded fabric into saleable garments, but every family search ends without certain news of Dae. When a relief worker delivers Dae's tool roll and a sealed packet from another refugee, Sun recognizes her father's scar-marked hand in a sketch enclosed with it and puts the packet into her sewing box without opening it.",
+        "history": "Busan served as South Korea's wartime capital and sheltered large numbers of refugees, while markets such as Gukje became important places for trading scarce goods."
+      },
+      {
+        "title": "Another Shore, Another Workshop",
+        "place": "Toronto, Ontario",
+        "era": "1974",
+        "beat": "Joon follows adult Min and Sun to Toronto, where Min's immigration application has been accepted but unfamiliar English, rejected work experience, and expensive housing make starting over difficult. As they repair secondhand furniture and take garment work, Joon spots the same sealed packet in Sun's sewing box; before he can open it, the fish pulls him into a final overlapping glimpse of that box in Aunt Hana's present-day home.",
+        "history": "Canada introduced its immigration points system in 1967, and Korean immigration expanded during the following decades, helping establish communities including Toronto's."
+      },
+      {
+        "title": "Two Pieces, One Promise",
+        "place": "Aunt Hana's home, Toronto",
+        "era": "Present day, with a final glimpse of 1950",
+        "beat": "Still caught between times, Joon guides Hana to the sewing box, where the packet contains the missing tail and Dae's note: he cut the fish before their dangerous journey so that he and Sun could each carry a piece, promising to join them when they found one another again; another refugee returned his half after his death. Joon reunites the pieces and returns fully home, understanding that the promise survived even though Dae did not, then helps Hana record their family's story with its uncertainties intact.",
+        "history": "Family letters, objects, and oral histories can preserve experiences absent from official records, but a clan genealogy alone cannot verify an individual family's migration story."
+      }
+    ]
+  },
+  "title": "The Fish That Carried Home",
+  "tagline": "Two brass halves carry Joon through a century of leaving—and belonging.",
+  "coverUrl": "/presets/preset-kim-gimhae-kim-cover.webp",
+  "castUrl": "/presets/preset-kim-gimhae-kim-cast.webp",
+  "pages": [
+    {
+      "chapterTitle": "A Fish Without a Tail",
+      "place": "Koreatown, Toronto",
+      "year": "Present day",
+      "act": 1,
+      "recap": "Joon Kim is sixteen and lives in Toronto. While helping his aunt sort family belongings, he is about to discover a strange link to his ancestors.",
+      "heroOutfit": "Joon wears a red zip-up hoodie over a white T-shirt, dark blue jeans, and white sneakers. He has round glasses and black headphones around his neck. His outfit stays unchanged throughout the chapter.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Aunt Hana's home, Bloor Street West, Koreatown, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "Inside a home overlooking Bloor Street West, the hero carries a cardboard box toward a table covered with family belongings. Aunt Hana waits beside the table, wearing red rectangular glasses and a green knitted vest.",
+              "shot": "wide",
+              "caption": "Toronto, today. Joon Kim sorts family keepsakes with Aunt Hana, his aunt.",
+              "dialogue": [
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "Careful. That box holds more than old socks."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Please tell me it holds fewer old socks."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "The hero lifts a faded blue cord from the box. Hanging from it is the head half of a palm-sized brass fish, with hand-punched scales, a round eye, and a cut edge.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "Someone cut this fish in half."
+                },
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "Your grandfather brought it here from Korea."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "Aunt Hana turns the fish gently in the hero's palm, revealing 김해 scratched beneath its belly. The hero studies the marks instead of putting it back.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "That says Gimhae. Our family's ancestral home."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "So this isn't just a broken decoration."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "Aunt Hana spreads an incomplete family genealogy beside the fish. Her finger rests on the family's Gimhae entry, while gaps remain farther down the page.",
+              "shot": "medium",
+              "caption": "A genealogy records family links. This one has gaps.",
+              "dialogue": [
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "We're Gimhae Kims. Not every Kim shares our clan."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "I want to fill those gaps."
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "MZl6ROB_lj",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c1-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom.",
+            "locations": "All panels take place in Aunt Hana’s Toronto home overlooking Bloor Street West in Koreatown, present day. Keep one consistent lived-in interior: a large window with a subdued view of the street and storefronts, pale warm walls, a wooden table, and a few shelves with family keepsakes. Soft natural daylight enters from the window; warm wood and muted neutral colours keep the room calm and uncluttered. The table holds the open cardboard box, family belongings, the brass fish and, in panel 4, the incomplete genealogy. Preserve the same room, window, table, lighting, and palette wherever they appear.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view at eye level. Joon carries the open cardboard box from the left toward the table; Aunt Hana waits at the right beside the family belongings, leaving clear wall or window space above them for balloons and the caption.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground, approaching the table",
+                    "action": "A friendly, curious 16-year-old with short black hair, round glasses, and black headphones around his neck. He wears the same red zip-up hoodie over a white T-shirt, dark blue jeans, and white sneakers throughout. He carries the box carefully and gives Aunt Hana a lightly amused look."
+                  },
+                  {
+                    "name": "Aunt Hana",
+                    "position": "right beside the table",
+                    "action": "A tall 54-year-old woman with a square jaw, silver-streaked black hair in a low bun, red rectangular glasses, and a green knitted vest with oversized pockets. She steadies the table and watches Joon with a fond, cautioning expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right above Aunt Hana",
+                    "pointsTo": "Aunt Hana"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-left above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-left corner, clear of the characters and balloons"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up angled down toward Joon’s hands and the open box, with his face clearly visible in the upper-left and Aunt Hana’s face visible at the right edge. Emphasize the faded blue cord and palm-sized brass fish head, its hand-punched scales, round eye, and cut edge; reserve clear space above each speaker.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "In his unchanged red hoodie, white T-shirt, dark blue jeans, round glasses, and headphones around his neck, he lifts the blue cord and studies the half-fish with puzzled curiosity."
+                  },
+                  {
+                    "name": "Aunt Hana",
+                    "position": "right, leaning in beside him",
+                    "action": "In her unchanged green knitted vest and red rectangular glasses, she looks at the fish with a thoughtful, gently serious expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Joon",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Aunt Hana",
+                    "pointsTo": "Aunt Hana"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up across Joon’s open palm. Aunt Hana gently turns the brass fish so the scratched characters 김해 beneath its belly are legible; frame both faces clearly, with Joon studying the inscription rather than looking away or putting the fish back. Leave uncluttered space above each speaker.",
+                "characters": [
+                  {
+                    "name": "Aunt Hana",
+                    "position": "left foreground, hand over Joon’s palm",
+                    "action": "Wearing the same green knitted vest and red rectangular glasses, she turns the fish carefully with a warm, explanatory expression."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "Wearing the same red hoodie, white T-shirt, dark blue jeans, round glasses, and headphones around his neck, he holds his palm open and studies the scratched marks with growing recognition."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Aunt Hana",
+                    "pointsTo": "Aunt Hana"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium two-shot at table height. Aunt Hana, on the left, spreads the incomplete genealogy beside the brass fish and rests a finger on the Gimhae entry; visible blank gaps continue farther down the page. Joon stands on the right, leaning in with determined interest. Keep faces visible and leave open space above each speaker.",
+                "characters": [
+                  {
+                    "name": "Aunt Hana",
+                    "position": "left at the table",
+                    "action": "In her unchanged green knitted vest and red rectangular glasses, she points to the family’s Gimhae entry with a calm, matter-of-fact expression."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right beside the table",
+                    "action": "In his unchanged red hoodie, white T-shirt, dark blue jeans, round glasses, and headphones around his neck, he looks from the gaps in the genealogy to Aunt Hana with focused resolve."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Aunt Hana",
+                    "pointsTo": "Aunt Hana"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-center, in clear wall space above the genealogy and below the balloons"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "The hero searches the bottom of the box for the missing tail. He finds only loose buttons and a rolled blue cloth scarf.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "Where's the other half?"
+                },
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "I've never seen it."
+                }
+              ],
+              "sfx": "RUSTLE"
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "Aunt Hana rests her hand beside the brass fish as she recalls a family saying. In the hero's open palm, its dull brass begins to glow.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "Grandfather said, 'Together, the two pieces will bring us home.'"
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Why was it cut?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "The fish grows warm, and light pours from its cut edge. The hero tries to set it on the table, but the blue cord loops around his wrist and pulls tight.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "It's getting hot!"
+                },
+                {
+                  "speaker": "Aunt Hana",
+                  "text": "Joon, let go!"
+                }
+              ],
+              "sfx": "HUM"
+            },
+            {
+              "setting": "Aunt Hana's home, Toronto, present day",
+              "cast": [
+                "Aunt Hana"
+              ],
+              "scene": "The light opens into a swirling gap showing a smoky workshop beyond. It pulls the hero off his feet as Aunt Hana reaches for his outstretched hand and misses.",
+              "shot": "wide",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "Aunt Hana!"
+                }
+              ],
+              "sfx": "WHOOSH!"
+            }
+          ],
+          "id": "xGB8OGKd3W",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c1-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width and larger than the others for the climax. Reading order is left-to-right, top-to-bottom.",
+            "locations": "All panels take place in Aunt Hana's Toronto home, present day, beside the same family-belongings table near a window overlooking Bloor Street West in Koreatown. Keep the modest lived-in interior consistent: pale warm walls, a dark wooden table, soft overcast daylight from the window, and subdued brown and cream furnishings. The open cardboard box sits on the table with loose buttons and a rolled blue cloth scarf inside; the incomplete genealogy and brass fish are nearby. The fish is palm-sized dull brass with hand-punched scales, a round eye, a cut edge, and 김해 scratched beneath its belly, attached to a faded blue cord. In panels 2–4 its glow casts increasingly bright warm light; panel 4's swirling gap reveals a smoky, dim workshop beyond, contrasting with the Toronto room.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Medium shot at table height, with the open box and both characters clearly visible. Keep open wall and window space above them for balloons; the mood is searching and quietly uncertain.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground at the table",
+                    "action": "In his unchanged red zip-up hoodie, white T-shirt, dark blue jeans, white sneakers, round glasses, and headphones around his neck, he leans over the box and rummages among loose buttons and the rolled blue scarf, looking puzzled."
+                  },
+                  {
+                    "name": "Aunt Hana",
+                    "position": "right foreground beside the table",
+                    "action": "Tall, square-jawed, with silver-streaked black hair in a low bun, red rectangular glasses, and a green knitted vest with oversized pockets; she watches Joon with a regretful, matter-of-fact expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right",
+                    "pointsTo": "Aunt Hana"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up of the brass fish resting in Joon's open palm, with Aunt Hana's hand beside it on the table and both faces visible above the hands. Leave clear space at the upper left and upper right for the two balloons; the fish's first faint golden glow draws the eye.",
+                "characters": [
+                  {
+                    "name": "Aunt Hana",
+                    "position": "left, leaning into the close-up",
+                    "action": "Her face is clearly visible behind her resting hand; she recalls the saying with a thoughtful, tender expression."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right, leaning into the close-up",
+                    "action": "He holds his palm open beneath the fish and studies its faintly glowing brass with curious concern."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Aunt Hana"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium close shot angled toward the table, showing the fish blazing at its cut edge as the blue cord tightens around Joon's wrist. Leave uncluttered space above each character for balloons, and keep both faces unobscured to make the alarm immediate.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "He tries to set the hot fish down, recoiling with a wide-eyed expression as the cord loops tight around his wrist."
+                  },
+                  {
+                    "name": "Aunt Hana",
+                    "position": "right foreground",
+                    "action": "She leans toward him, urgently reaching for his cord-bound wrist, her expression suddenly alarmed."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right",
+                    "pointsTo": "Aunt Hana"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Wide, dynamic climax panel with a clear view of the whole table and room. A swirling luminous gap opens beside the table, revealing a smoky workshop; its pull lifts Joon off his feet while Aunt Hana reaches across the light and just misses his outstretched hand. Reserve open space high on the left for Joon's balloon, keeping faces and hands unobstructed.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "center-left, suspended and being drawn toward the gap",
+                    "action": "His feet lift from the floor and his body stretches toward the swirling opening; he reaches back toward Aunt Hana, his face frightened and calling out."
+                  },
+                  {
+                    "name": "Aunt Hana",
+                    "position": "right foreground beside the table",
+                    "action": "She lunges toward Joon with one hand outstretched, narrowly missing his, her face stricken and urgent."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Metalworking workshop, Gimhae, Korea, 1894",
+              "cast": [],
+              "scene": "The hero lands on the packed-earth floor of a metalworking shop, still gripping the fish half. A charcoal hearth, hand tools, and brass scraps surround him; the last opening to Aunt Hana's home hangs behind him.",
+              "shot": "wide",
+              "caption": "Gimhae, Korea. 1894. Joon lands in a metalworking shop.",
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "That is definitely not Toronto."
+                }
+              ],
+              "sfx": "THUMP!"
+            },
+            {
+              "setting": "Metalworking workshop, Gimhae, Korea, 1894",
+              "cast": [],
+              "scene": "The hero reaches toward the shrinking opening, but it closes before his fingers touch it. He holds up the cut fish half and remembers Aunt Hana's words.",
+              "shot": "medium",
+              "caption": "The way home closes. Joon still has only half the fish.",
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "Find the tail. Join the pieces. Get home."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Metalworking workshop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim steps toward the hero, holding a rough fish-shaped brass blank with its tail still attached. He is a lean boy with prominent ears, a patched indigo work vest, and a crescent scar on his left thumb.",
+              "shot": "medium",
+              "caption": "Dae Kim: Joon's great-great-grandfather, age twelve.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "It's 1894. Why are you on our floor?"
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Wait. Your fish has a tail!"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Metalworking workshop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim catches his heel on a charcoal basket while turning to show the brass blank. The basket tips, and the unfinished fish slips toward the spilling charcoal; the hero lunges to catch it.",
+              "shot": "medium",
+              "caption": "His first clue is falling. Can Joon save it?",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Catch it!"
+                }
+              ],
+              "sfx": "CLATTER!"
+            }
+          ],
+          "id": "ZXrA3wMQPI",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c1-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom.",
+            "locations": "One continuous metalworking shop in Gimhae, Korea, 1894: a low timber-framed room with rough plaster walls, exposed dark rafters, and a packed-earth floor. A charcoal hearth glows dim orange at the rear beside a squat bellows; simple period-appropriate hand tools hang on the wall, with a low workbench, charcoal basket, and scattered brass scraps nearby. Smoky, warm amber hearth light mixes with muted daylight from a small opening; the palette is soot brown, charcoal gray, worn indigo, and dull brass. Keep the furnishings and lighting consistent in every panel. The portal to Aunt Hana’s Toronto home appears only in panels 1 and 2.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view at Joon’s low landing level, showing the workshop and the portal behind him. The fading opening reveals a sliver of Aunt Hana’s Toronto home; Joon has just hit the floor and looks bewildered, with the brass fish half clenched in one hand.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "center foreground",
+                    "action": "Sits on the packed earth after his fall, one hand braced on the floor and the other gripping the cut fish half; he looks around in startled disbelief. Keep his short black hair, round glasses, red zip-up hoodie over a white T-shirt, dark blue jeans, white sneakers, and headphones around his neck unchanged."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, in clear wall space",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-right corner, clear of the portal"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium shot with Joon on the left and the shrinking portal behind him, leaving clean wall space above for lettering. Frame his reaching hand and raised fish half clearly as the last slit of light snaps shut just short of his fingertips.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "Reaches desperately toward the closing portal with one hand while holding up the cut fish half in the other; his face is intent and worried. His outfit and accessories remain identical to panel 1."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-right corner"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium two-shot, staged with Dae on the left and Joon on the right so both faces and the two fish shapes are clear. Dae holds out the rough brass blank with its tail attached; Joon leans in, suddenly alert and astonished.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "Steps toward Joon, holding a rough fish-shaped brass blank with its tail attached. He is a lean twelve-year-old boy with a long face, prominent ears, straight black hair, patched indigo work vest, and a crescent scar on his left thumb; he looks wary and demanding."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "Turns toward Dae and points his attention at the attached tail, visibly surprised. Keep his outfit and accessories identical to the previous panels."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "small box along the bottom edge, clear of the characters and fish"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Dynamic medium-wide action shot: Dae is left of center, turning off balance as his heel catches the charcoal basket; the basket tips and charcoal spills across the floor. The brass blank flies toward the spill while Joon lunges from the right, arms outstretched to catch it. Keep faces visible and the falling fish unobstructed.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "Catches his heel on the basket as he turns to show the brass blank; he twists, startled, one hand reaching after the slipping fish. Preserve his age-twelve appearance, patched indigo vest, prominent ears, black hair, and left-thumb scar."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "Lunges toward the airborne brass blank with both hands extended, eyes wide and body pitched forward. Keep his outfit and accessories unchanged."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Dae and clear of the spill",
+                    "pointsTo": "Dae Kim"
+                  }
+                ],
+                "captionPlacement": "top-right corner, above Joon and clear of the action"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? A surname needs context",
+        "body": "A Korean bon-gwan identifies a clan's ancestral seat, not necessarily where a person was born. Gimhae is the ancestral seat of the Gimhae Kim clan. People who share the surname Kim can belong to different clans. The brass fish and this family's time-travel story are fictional."
+      },
+      "dialectWord": {
+        "language": "Korean",
+        "term": "bon-gwan",
+        "script": "본관",
+        "meaning": "A clan's ancestral seat, often named for a place."
+      },
+      "quiz": {
+        "question": "What does Gimhae identify for Joon's clan?",
+        "options": [
+          "The birthplace of every person named Kim",
+          "The clan's ancestral seat",
+          "The place where all brass fish were made"
+        ],
+        "answerIndex": 1,
+        "explanation": "An ancestral seat connects a clan to a place, even when its members live elsewhere."
+      },
+      "choices": [
+        "Dive forward and catch the falling brass fish.",
+        "Study the fish blank for clues about its missing tail.",
+        "Help Dae steady himself and gather the spilled charcoal."
+      ],
+      "isFinale": false,
+      "id": "nmT-JosQ23",
+      "prompt": null
+    },
+    {
+      "chapterTitle": "Gold Is Not a Crown",
+      "place": "Gimhae, southeastern Korea",
+      "year": "1894",
+      "act": 2,
+      "recap": "Joon needs the brass fish's missing tail to get home to Toronto. He has landed in his ancestor Dae's workshop, where a whole fish is falling.",
+      "heroOutfit": "Joon wears a red zip-up hoodie over a white T-shirt, dark blue jeans, and white sneakers. He has round glasses and black headphones around his neck. His outfit stays unchanged throughout the chapter.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Inside the small workshop, the hero dives across the dirt floor toward the falling brass fish. Dae Kim reaches after it beside a tipped basket of charcoal.",
+              "shot": "wide",
+              "caption": "Gimhae, Korea. 1894. Joon dives to save Dae's fish.",
+              "dialogue": [],
+              "sfx": "WHOOSH!"
+            },
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "The hero catches the fish just above the floor. Loose charcoal tumbles over his sleeve, leaving black smears on the red cloth.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "Got it!"
+                },
+                {
+                  "speaker": "Dae Kim",
+                  "text": "And half our charcoal."
+                }
+              ],
+              "sfx": "CLATTER!"
+            },
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "The hero holds his broken head half beside the whole fish he caught. The whole fish has an unfinished tail and only a few punched scales; Dae Kim leans closer.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "That looks like mine. But I haven't finished mine."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Yours might be my way home."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "The hero gently places his broken head against the unfinished fish's tail. The pieces overlap instead of fitting together, and nothing happens.",
+              "shot": "medium",
+              "caption": "The fish is still whole here. Joon cannot mend his broken half.",
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "I need its missing tail, not a second fish."
+                },
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Please don't break this one."
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "98fwpkEqAk",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c2-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom.",
+            "locations": "One small metalworking workshop in Gimhae, Korea, in 1894: low timber beams and rough plaster walls, a packed-earth floor, a charcoal hearth at the rear, simple hand tools and brass scraps near the work area, and a tipped woven charcoal basket with loose charcoal scattered across the floor. Warm, smoky hearth light mixes with soft daylight from the doorway; use muted earth browns, soot black, brass gold, and indigo. Keep the workshop layout, light, and props consistent in every panel. Dae is a lean twelve-year-old boy with a long face, prominent ears, straight black hair, a patched indigo work vest, and a crescent scar on his left thumb. Joon is sixteen, with short black hair, round glasses, and headphones around his neck; he wears the same red zip-up hoodie over a white T-shirt, dark blue jeans, and white sneakers in every panel.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view from low across the dirt floor, catching the urgency of Joon's dive and the brass fish falling toward the charcoal. Leave a clear strip of wall or upper background for the caption.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "Dives low across the floor, arm stretched toward the falling fish; his face is intent and his headphones stay around his neck."
+                  },
+                  {
+                    "name": "Dae Kim",
+                    "position": "right midground beside the tipped basket",
+                    "action": "Reaches urgently toward the fish, startled, with his crescent-scarred left thumb visible."
+                  }
+                ],
+                "balloons": [],
+                "captionPlacement": "top-left in the clear upper wall area: \"Gimhae, Korea. 1894. Joon dives to save Dae's fish.\""
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Tight action close-up at floor level, framing Joon's hand catching the brass fish just above the earth. Charcoal tumbles across his red sleeve; keep both faces visible near the upper edge and reserve clear space above each speaker.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "Catches the fish with a relieved, triumphant expression; black charcoal smears mark his hoodie sleeve."
+                  },
+                  {
+                    "name": "Dae Kim",
+                    "position": "right upper edge",
+                    "action": "Looks down at the spilled charcoal with a rueful, mildly exasperated expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Joon",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Dae",
+                    "pointsTo": "Dae Kim"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close two-shot at chest height, with the two fish clearly distinct in the foreground: Joon's broken head half and Dae's whole unfinished fish, its tail still attached and only a few scales punched. Keep both faces visible above the objects, with open space over each speaker.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left",
+                    "action": "Leans closer to inspect Joon's broken half beside his own fish, looking puzzled and curious."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right",
+                    "action": "Holds up his broken head half next to Dae's fish, explaining earnestly with a hopeful, searching look."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium two-shot focused on the mismatch between the broken half and the unfinished fish: Joon gently presses his piece against its tail, the pieces overlapping without fitting. Keep the faces clearly visible above the action and leave a quiet upper strip for the caption.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left foreground",
+                    "action": "Carefully places his broken half against the fish's tail; his expression is disappointed but gentle."
+                  },
+                  {
+                    "name": "Dae Kim",
+                    "position": "right foreground",
+                    "action": "Watches anxiously, hands held close to protect his unfinished fish, pleading expression visible."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "middle-left above Joon",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "middle-right above Dae",
+                    "pointsTo": "Dae Kim"
+                  }
+                ],
+                "captionPlacement": "top-left in the clear upper wall area: \"The fish is still whole here. Joon cannot mend his broken half.\""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim shows the hero the scrap of brass left from cutting out the fish. He wears a patched indigo work vest; a crescent scar marks his left thumb.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "I made it from brass left after a job."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "It looks like gold."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "The hero steadies the cool fish on a wooden block while Dae Kim taps a scale into it with a metal punch. Tools for repairing pots hang behind them.",
+              "shot": "close-up",
+              "caption": "A metal punch makes each small mark.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Brass costs less. Making things takes practice."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Especially catching them."
+                }
+              ],
+              "sfx": "TAP!"
+            },
+            {
+              "setting": "Metalworking shop, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim turns the finished fish over to show the hero the newly scratched letters 김해 beneath its belly. The hero's broken half rests beside it, bearing the same letters.",
+              "shot": "close-up",
+              "caption": "The same place name sits beneath both fish: Gimhae.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "So I'll remember home wherever I go."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Tell me about home. It might help me return."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Metalworking shop doorway, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim steps outside with his fish and beckons the hero to follow. The hero slips his own half's faded blue cord over his head.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Come. I'll show you our old king's tomb."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "A king? Does this lead to royal treasure?"
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "evmQ33c3BW",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c2-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order is left-to-right, top-to-bottom; give the bottom panel extra height for the doorway and the characters’ movement outside.",
+            "locations": "Panels 1–3 share one small 1894 metalworking shop in Gimhae, Korea: a low timber structure with packed-earth floor, rough wooden workbench and block, a charcoal brazier, and a few simple metalworking tools. Pot-repair tools hang on the rear wall in panels 2–3. Warm daylight enters from the open doorway; the interior is softly shadowed in muted browns and indigo, with brass catching highlights. Panel 4 shows the same timber doorway and threshold opening onto a quiet, sunlit Gimhae lane; keep the shop interior, light, and colours consistent. No modern objects except Joon’s unchanged red zip-up hoodie, white T-shirt, dark blue jeans, white sneakers, round glasses, and black headphones around his neck.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Medium two-shot at eye level, with Dae on the left presenting the leftover brass scrap and Joon on the right studying it. Keep the fish and Dae’s scarred left thumb visible between them; leave clear wall space above each speaker for balloons.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "A lean twelve-year-old with a long face, prominent ears, straight black hair, and patched indigo work vest; he holds up the brass scrap and points it out with his left hand, crescent scar visible on the thumb. His expression is patient and quietly proud."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "A friendly, curious sixteen-year-old in his fixed chapter outfit, with short black hair, round glasses, and headphones around his neck. He leans in to inspect the scrap, smiling with impressed surprise."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up angled down toward the wooden block, framing both pairs of hands and the cool brass fish while keeping Dae’s and Joon’s faces visible along the upper edge. The metal punch and a few hanging pot-repair tools establish the craft without crowding the lettering.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left, leaning over the block",
+                    "action": "The same lean boy in the patched indigo vest taps one scale into the fish with a small metal punch; his focused face and careful grip are visible."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right, leaning over the block",
+                    "action": "In the unchanged red hoodie and glasses, he steadies the fish on the block with cautious fingertips and gives Dae a wry, amused look."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "small caption box at the top center, clear of both faces and balloons"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up at workbench height: Dae turns the finished brass fish over in the foreground so the freshly scratched letters 김해 beneath its belly are clearly legible; Joon’s broken half rests beside it, also showing 김해. Keep both faces visible above the objects, with expressions conveying recognition and curiosity.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "The same boy in the patched indigo vest carefully turns the finished fish toward Joon, his face thoughtful and tender."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "The same Joon in his fixed outfit looks from the matching letters on the two pieces up to Dae, eager and hopeful."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "small caption box along the bottom edge, away from the fish and hands"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium-wide view from inside the shop toward the open doorway. Dae leads out on the left with his fish and beckons back; Joon follows on the right, slipping the faded blue cord of his broken half over his head. Use the bright lane beyond as open space while keeping both faces readable and the shop threshold visible.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left, at the threshold",
+                    "action": "The same lean boy in the patched indigo vest steps into the sunlight with his fish and gestures for Joon to follow, looking inviting and slightly amused."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right, just inside the doorway",
+                    "action": "In his unchanged red hoodie, white T-shirt, jeans, sneakers, glasses, and headphones, he slips the faded blue cord over his head so his broken half hangs at his chest; he looks intrigued and excited."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": ""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Traditionally identified tomb of King Suro, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "The hero and Dae Kim arrive near a grassy burial mound. Dae Kim points toward it, holding the small brass fish in his other hand.",
+              "shot": "wide",
+              "caption": "Later, at the place people call King Suro's tomb.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Our family stories begin with King Suro."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "What was his story?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Traditionally identified tomb of King Suro, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim tells the story while the hero listens beside the mound. A soft-edged imagined golden egg floats above them, clearly separate from the real landscape.",
+              "shot": "medium",
+              "caption": "This is a founding legend: an old story about a people's beginning.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "People say he came from a golden egg."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "A story, then. Not proof of buried gold."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Traditionally identified tomb of King Suro, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "Dae Kim rests his finished fish in the hero's open palm so he can inspect the handmade scales. The hero touches one careful mark with his finger.",
+              "shot": "close-up",
+              "caption": "Joon finds something precious, but it is not royal gold.",
+              "dialogue": [
+                {
+                  "speaker": "Dae Kim",
+                  "text": "No crown for me. Just hands that make things."
+                },
+                {
+                  "speaker": "Joon",
+                  "text": "Your work reached my home. Years from now."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Traditionally identified tomb of King Suro, Gimhae, Korea, 1894",
+              "cast": [
+                "Dae Kim"
+              ],
+              "scene": "After returning the whole fish to Dae Kim, the hero grips his own suddenly warm half. A shimmering opening reveals a muddy road and a tool roll sliding toward rushing water; Dae Kim remains beside the hero.",
+              "shot": "wide",
+              "caption": "Dae's story warms the broken fish. Another road opens—but something is falling.",
+              "dialogue": [
+                {
+                  "speaker": "Joon",
+                  "text": "That road might lead to the missing tail."
+                },
+                {
+                  "speaker": "Dae Kim",
+                  "text": "Those tools! Someone will lose them!"
+                }
+              ],
+              "sfx": "HUM!"
+            }
+          ],
+          "id": "toUVHuJXCP",
+          "imageUrl": "/presets/preset-kim-gimhae-kim-c2-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left-to-right, top-to-bottom.",
+            "locations": "All panels share the grounds of the traditionally identified tomb of King Suro in Gimhae, Korea, in 1894: a broad, smoothly grass-covered burial mound rises behind a low earthen approach, with sparse trees and modest traditional Korean village roofs visible in the far distance. The day is overcast and still, with soft neutral light, muted green grass, brown earth, and subdued gray-blue sky. Keep the mound, distant roofs, trees, weather, and palette consistent; the imagined egg and magical opening are distinct overlays, not changes to the real landscape.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view at eye level, showing the mound and both figures with clear separation. Dae stands on the left, pointing toward the mound while holding the small brass fish in his other hand; Joon stands on the right, curious and attentive. Leave open sky above them for the caption and dialogue.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "At twelve, lean with a long face, prominent ears, straight black hair, patched indigo work vest, and visible crescent scar on his left thumb; he points toward the mound and holds the brass fish in his other hand, speaking with quiet pride."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "A friendly, curious sixteen-year-old with short black hair, round glasses, and headphones around his neck, wearing the same red zip-up hoodie, white T-shirt, dark blue jeans, and white sneakers; he looks toward Dae and the mound, asking openly."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-left corner, above the figures without covering the mound"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium two-shot, framed from the waist up with the grassy mound behind them. Dae is on the left telling the legend and Joon is on the right listening; a soft-edged imagined golden egg floats above and between them, visibly symbolic and separate from the real landscape.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left",
+                    "action": "Same young face, prominent ears, straight black hair, and patched indigo work vest; he gestures gently as he explains, with an earnest storytelling expression."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right",
+                    "action": "Same short black hair, round glasses, headphones, and unchanged red hoodie outfit; he listens with a thoughtful, slightly skeptical expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-left corner, in a clear patch of sky above the imagined egg"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up on hands and faces, keeping both speakers' expressions readable. Dae, on the left, rests the finished brass fish in Joon's open palm; Joon, on the right, touches one hand-worked scale with a careful fingertip, visibly moved by the craft.",
+                "characters": [
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground",
+                    "action": "Same young face, black hair, and patched indigo vest; his scarred left thumb is visible as he carefully places the fish in Joon's palm, smiling modestly."
+                  },
+                  {
+                    "name": "Joon",
+                    "position": "right foreground",
+                    "action": "Same face, glasses, headphones, and red hoodie; he studies the etched scales with wonder and gratitude, one finger touching a single mark."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Dae",
+                    "pointsTo": "Dae Kim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above Joon",
+                    "pointsTo": "Joon"
+                  }
+                ],
+                "captionPlacement": "top-center, in a small clear area above the hands"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Wide dramatic view of the tomb grounds, with Dae and Joon together in the left half and a shimmering opening occupying the right half. Joon has returned the whole fish to Dae and grips his own suddenly warm broken half; through the opening, a muddy road slopes toward rushing water as a tool roll slides toward the edge. Keep both faces visible and make the danger immediately legible.",
+                "characters": [
+                  {
+                    "name": "Joon",
+                    "position": "left-center foreground",
+                    "action": "Same short black hair, round glasses, headphones, and unchanged red hoodie outfit; he grips his own half of the brass fish, startled by its warmth, while looking toward the opening and speaking with urgent curiosity."
+                  },
+                  {
+                    "name": "Dae Kim",
+                    "position": "left foreground, beside Joon",
+                    "action": "Same lean twelve-year-old with long face, prominent ears, straight black hair, patched indigo vest, and crescent scar on his left thumb; he holds the whole fish and reacts alarmed, pointing toward the sliding tool roll."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Joon",
+                    "pointsTo": "Joon"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-middle, above Dae, with its tail clearly aimed left toward him",
+                    "pointsTo": "Dae Kim"
+                  }
+                ],
+                "captionPlacement": "top-right, over the opening's clear glow without obscuring the muddy road or falling tools"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? A king from an egg",
+        "body": "Gimhae Kim genealogies traditionally name King Suro as their founder. Tradition dates his founding of Geumgwan Gaya, centered at present-day Gimhae, to 42 CE. The golden-egg account is a founding legend, not independently verified history. Dae and his handmade brass fish are fictional parts of this adventure."
+      },
+      "dialectWord": null,
+      "quiz": {
+        "question": "How should we understand King Suro's golden-egg story?",
+        "options": [
+          "As proof that royal gold lies beneath the tomb",
+          "As a founding legend passed down through generations",
+          "As instructions for making a brass fish"
+        ],
+        "answerIndex": 1,
+        "explanation": "The golden-egg story is a founding legend, not an independently verified account."
+      },
+      "choices": [
+        "Leap through the opening and rescue the sliding tools.",
+        "Study the road for clues before stepping through.",
+        "Ask Dae how to help the tools' owner."
+      ],
+      "isFinale": false,
+      "id": "a1bN8xc29m",
+      "prompt": "Dive forward and catch the falling brass fish."
+    }
+  ],
+  "isPublic": true,
+  "createdAt": "2026-10-11T06:20:53.422Z",
+  "updatedAt": "2026-10-11T06:20:53.422Z",
+  "isFeatured": true
+}

@@ -1,0 +1,1423 @@
+{
+  "id": "preset-lim-teochew",
+  "version": 1,
+  "hero": {
+    "name": "Wei Ling",
+    "surname": "Lim",
+    "pronouns": "she",
+    "look": "13, long ponytail, bright curious eyes",
+    "home": "Singapore"
+  },
+  "heritage": {
+    "id": "teochew",
+    "name": "Teochew Chinese",
+    "nativeName": "潮州",
+    "spelling": "Lim",
+    "homeland": "Chaoshan, eastern Guangdong — Chaozhou, Shantou and Jieyang",
+    "migrationStory": "Teochew migrants travelled especially to Thailand, Singapore, Malaya, Cambodia and Vietnam during the 18th–20th centuries. Many built livelihoods in farming, rice trading, retail and other businesses.",
+    "likelihood": "high",
+    "funFact": "Teochew and Hokkien are both Southern Min language varieties, but their speech is distinctly different."
+  },
+  "research": {
+    "surname": "Lim",
+    "nativeScript": "林",
+    "culture": "Chinese, especially Hokkien and Teochew; also Korean",
+    "meaning": "林 means “woods” or “grove.” The character combines two 木 characters, each meaning “tree.”",
+    "summary": "Lim is most often a Southern Min spelling of the Chinese surname 林, written Lín in Mandarin. It is especially associated with Hokkien and Teochew families in Southeast Asia, though Lim is also a well-established Korean spelling of the same character.",
+    "originStory": "A traditional Chinese account traces 林 to the family of Bi Gan, a royal adviser executed by the last Shang king. His pregnant wife reportedly escaped into the woods, where their son Jian was born; King Wu of Zhou later granted him the surname Lin in recognition of that refuge. This is a cherished ancestral tradition, not a genealogy that can be independently verified for every Lim family.",
+    "romanizations": [
+      {
+        "label": "Hokkien",
+        "spelling": "Lim"
+      },
+      {
+        "label": "Teochew",
+        "spelling": "Lim"
+      },
+      {
+        "label": "Mandarin",
+        "spelling": "Lín"
+      },
+      {
+        "label": "Cantonese",
+        "spelling": "Lam"
+      },
+      {
+        "label": "Vietnamese",
+        "spelling": "Lâm"
+      },
+      {
+        "label": "Korean",
+        "spelling": "Im / Lim / Rim"
+      }
+    ],
+    "timeline": [
+      {
+        "era": "Traditional origin: 11th century BCE",
+        "event": "The surname’s best-known origin legend connects Bi Gan’s son with the founding of the Zhou dynasty."
+      },
+      {
+        "era": "4th–10th centuries CE",
+        "event": "Successive migrations carried northern Chinese families, including Lin lineages, into Fujian."
+      },
+      {
+        "era": "Song–Ming periods, 960–1644",
+        "event": "Lin lineages became deeply established in Fujian and eastern Guangdong, the homelands of many Hokkien and Teochew Lims."
+      },
+      {
+        "era": "17th–19th centuries",
+        "event": "Families from southeastern China settled in Taiwan and maritime Southeast Asia through trade and migration."
+      },
+      {
+        "era": "19th–20th centuries",
+        "event": "Large Hokkien and Teochew migrations helped establish Lim as a familiar surname in Singapore, Malaya, Indonesia and the Philippines."
+      }
+    ],
+    "heritageOptions": [
+      {
+        "id": "hokkien",
+        "name": "Hokkien Chinese",
+        "nativeName": "福建闽南",
+        "spelling": "Lim",
+        "homeland": "Southern Fujian — Quanzhou, Zhangzhou and Xiamen",
+        "migrationStory": "Hokkien families crossed to Taiwan and settled throughout Southeast Asian trading ports over several centuries. Migration expanded in the 19th and early 20th centuries through commerce, labour recruitment and family networks.",
+        "likelihood": "high",
+        "funFact": "Hokkien speakers helped make Lim a familiar surname in ports from Singapore to Manila."
+      },
+      {
+        "id": "teochew",
+        "name": "Teochew Chinese",
+        "nativeName": "潮州",
+        "spelling": "Lim",
+        "homeland": "Chaoshan, eastern Guangdong — Chaozhou, Shantou and Jieyang",
+        "migrationStory": "Teochew migrants travelled especially to Thailand, Singapore, Malaya, Cambodia and Vietnam during the 18th–20th centuries. Many built livelihoods in farming, rice trading, retail and other businesses.",
+        "likelihood": "high",
+        "funFact": "Teochew and Hokkien are both Southern Min language varieties, but their speech is distinctly different."
+      },
+      {
+        "id": "korean",
+        "name": "Korean Im/Lim clans",
+        "nativeName": "임 / 림 (林)",
+        "spelling": "Lim",
+        "homeland": "Korea — several ancestral clan seats, including Naju and Pyeongtaek",
+        "migrationStory": "Korean families migrated to China’s northeast, the Russian Far East and Hawaii from the late 19th century onward. Later migrations carried Lim families to North America and other destinations.",
+        "likelihood": "medium",
+        "funFact": "Korean families distinguish surname lineages by bon-gwan, an ancestral clan seat, rather than surname alone."
+      }
+    ],
+    "famousBearers": [
+      {
+        "name": "Lim Bo Seng",
+        "note": "Singapore-based resistance organiser who died in Japanese captivity in 1944."
+      },
+      {
+        "name": "Lim Goh Tong",
+        "note": "Fujian-born Malaysian entrepreneur who founded the Genting Group."
+      },
+      {
+        "name": "Lim Swee Say",
+        "note": "Singaporean former cabinet minister and labour movement leader."
+      }
+    ],
+    "funFacts": [
+      "Lim, Lin, Lam and Lâm can all represent the same Chinese character, 林.",
+      "The surname’s character looks like its meaning: two trees standing together.",
+      "林 appears in the traditional Chinese Hundred Family Surnames text.",
+      "Chinese clan associations often link Lim families through ancestral villages and shared migration histories.",
+      "In Korea, Lim is a common family spelling even though standard South Korean romanization gives Im."
+    ],
+    "caveat": "Lim strongly suggests Hokkien or Teochew ancestry in a Southeast Asian context, but it does not prove either. Korean Lim usually represents 林, though some 임 families use 任, a different surname character. An ancestral village, original written surname or Korean clan seat is much more informative than the English spelling alone."
+  },
+  "outline": {
+    "title": "The Grove Across the Sea",
+    "tagline": "Two wooden trees, two distant homes, and one girl searching for the missing half.",
+    "logline": "When thirteen-year-old Wei Ling Lim discovers half a wooden grove in her Singapore home, she is swept into a Teochew family's journey from Chaoshan to Singapore. Following this fictional ancestral thread through migration, plantation work and wartime survival, she must find the matching half to return home.",
+    "heirloom": {
+      "name": "The Two-Tree Token",
+      "description": "A palm-sized wooden plaque carved with 林, split between its two 木 characters so that each half carries one tree. Wei Ling finds one half inside an old wooden document box; touching it while reading the family's letters draws her into the moments they describe, but only joining both halves will bring her home."
+    },
+    "mystery": "Where is the other half of the wooden grove?",
+    "cast": [
+      {
+        "name": "A-Sheng Lim",
+        "role": "Wei Ling's fictional ancestor and first companion in the past",
+        "look": "Seventeen in 1869, lean, with bright eyes, a small notch in his left eyebrow and black hair worn in a Qing-era queue; indigo cotton jacket and patched trousers. In later acts, retain the eyebrow notch while adding grey hair and a stooped posture."
+      },
+      {
+        "name": "Mei",
+        "role": "A-Sheng's mother, who remains in Chaoshan",
+        "look": "Forty-two in 1869, compact build, broad cheekbones and centre-parted hair in a low bun; dark cotton tunic, practical trousers and a faded blue cloth tucked into her waistband."
+      },
+      {
+        "name": "Ah Lan Lim",
+        "role": "A-Sheng's Singapore-born granddaughter and keeper of the family box",
+        "look": "Ten in 1905, round-faced, with a mole beneath her right eye and two short braids; pale cotton blouse and dark trousers. As an adult, keep the mole, replace the braids with a low bun, and give her a brown document satchel."
+      },
+      {
+        "name": "Mr Tan",
+        "role": "Plantation overseer and early source of conflict",
+        "look": "About forty in 1870, wiry, narrow-faced, with a thin moustache; rolled-sleeve white cotton shirt, dark trousers and a ledger always tucked beneath one arm."
+      }
+    ],
+    "acts": [
+      {
+        "title": "One Tree in a Box",
+        "place": "Wei Ling's family home, Singapore",
+        "era": "Present day",
+        "beat": "Wei Ling, thirteen, with a long ponytail and bright curious eyes, discovers a wooden document box containing old letters and half a token whose carving resembles 木. When she traces the incomplete 林 beside a letter mentioning Chaoshan, the room becomes a village courtyard, and she learns that finding the other tree is her only way home.",
+        "history": "林 means woods or grove, and Lim is a Teochew rendering of the same surname character also represented by spellings such as Lin and Lam."
+      },
+      {
+        "title": "The Tree That Stays",
+        "place": "A fictional village near Jieyang, Chaoshan, eastern Guangdong",
+        "era": "1869",
+        "beat": "Wei Ling befriends A-Sheng as his household struggles with poor harvests, debts and too little work, while a relative's letter offers an introduction to employment in Singapore. Mei divides a locally carved 林 token between herself and her departing son; Wei Ling watches her place the other half inside a blue cloth pouch, but the heirloom pulls Wei Ling onward before she can reach it.",
+        "history": "Nineteenth-century Teochew migration grew through household pressures and overseas kinship networks; Mei also tells the Bi Gan surname legend, explicitly identifying it as ancestral tradition rather than a verified genealogy."
+      },
+      {
+        "title": "Beyond the Harbour",
+        "place": "Shantou, Hong Kong and the South China Sea",
+        "era": "1870",
+        "beat": "A-Sheng and Wei Ling travel through Shantou and Hong Kong toward Singapore, carrying bedding, an introduction letter and his half of the token. Rough weather soaks their baggage, and Wei Ling helps save the letter that may secure his first job, discovering that the voyage's real lifeline is another person's promise.",
+        "history": "Shantou opened as a treaty port in 1860, and its expanding shipping connections helped carry Chaoshan migrants into maritime Southeast Asia."
+      },
+      {
+        "title": "The Bitter Leaf",
+        "place": "A gambier and pepper plantation in the Seletar area, Singapore",
+        "era": "1870–1872",
+        "beat": "A-Sheng finds work cutting gambier leaves and tending pepper, but Mr Tan's account book makes his passage advance and purchases difficult to repay. Wei Ling helps him compare the entries with his remembered wages, and support from fellow workers forces a correction, allowing him to send his first money and letter home.",
+        "history": "Teochew workers and entrepreneurs played major roles in nineteenth-century Singapore's gambier-and-pepper economy, whose plantations extended across the island's interior."
+      },
+      {
+        "title": "Letters Build a Bridge",
+        "place": "A small rice shop near Boat Quay, Singapore",
+        "era": "1905",
+        "beat": "Now an older shopkeeper, A-Sheng introduces Wei Ling to his granddaughter Ah Lan, who helps sort correspondence while learning to weigh rice and keep accounts. A parcel sent after Mei's death finally brings her half of the token to Singapore, but before Wei Ling can join the pieces, the box pulls her into a later letter marked by wartime fear.",
+        "history": "Qiaopi—overseas Chinese letters commonly accompanied by remittances—connected migrant households with relatives in China, while Singapore's riverfront trade supported livelihoods such as rice dealing and retail."
+      },
+      {
+        "title": "What the Box Protected",
+        "place": "Singapore",
+        "era": "1942–1965",
+        "beat": "During the Japanese occupation, adult Ah Lan shelters the family papers and Mei's token half beneath the box's loose bottom board, while Wei Ling witnesses shortages, fear and the devastating loss of neighbours during Sook Ching. The next letter carries her to 1965, when an elderly Ah Lan repairs the box for her descendants and tells Wei Ling to look beneath what everyone thought was its floor.",
+        "history": "Singapore endured Japanese occupation from 1942 to 1945, including the Sook Ching massacre, before achieving internal self-government in 1959 and becoming independent on 9 August 1965."
+      },
+      {
+        "title": "Two Trees, One Grove",
+        "place": "Wei Ling's family home, Singapore",
+        "era": "Present day",
+        "beat": "Wei Ling lifts the hidden board, finds Mei's half and joins the two trees, returning to her own room with the complete 林 in her hands. She shares the letters with her family and begins recording their actual memories, understanding that the surname legend is inherited tradition, while her own family's history must be pieced together from evidence and voices.",
+        "history": "Family letters, remittance records, oral histories and clan-association records can help investigate particular migration stories, but a shared surname alone does not establish a documented ancestral line."
+      }
+    ]
+  },
+  "title": "The Grove Across the Sea",
+  "tagline": "Two wooden trees, two distant homes, and one girl searching for the missing half.",
+  "coverUrl": "/presets/preset-lim-teochew-cover.webp",
+  "castUrl": "/presets/preset-lim-teochew-cast.webp",
+  "pages": [
+    {
+      "chapterTitle": "One Tree in a Box",
+      "place": "Singapore and a village near Jieyang, Chaoshan",
+      "year": "Present day and 1869",
+      "act": 1,
+      "recap": "Wei Ling Lim is thirteen and lives in Singapore. She wants to learn why her family has kept an old box of letters.",
+      "heroOutfit": "A yellow short-sleeved T-shirt, navy blue knee-length shorts, white ankle socks and red canvas trainers. Her long hair stays in a ponytail throughout.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero is alone in her family's living room, sorting a shelf of family keepsakes. An old wooden document box sits beside a family photograph.",
+              "shot": "wide",
+              "caption": "Singapore, today. Wei Ling Lim, thirteen, is sorting family keepsakes alone.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "What story are you hiding?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero lifts the box from the shelf with both hands. Its lid bears the surname character 林, and a folded modern family note is tucked beneath its cord.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "That's our surname on the lid!"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero unfolds the family note. Beneath its short message is a simple drawing showing 林 as two trees.",
+              "shot": "close-up",
+              "caption": "The family note explains why the box was kept.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Keep these letters. They tell our family's story."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero opens the box on the table. Inside are old letters, modern English translations and half a palm-sized wooden plaque, carved with one 木; its broken edge is clearly visible.",
+              "shot": "close-up",
+              "caption": "Inside: family letters, their translations, and half a wooden token.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "One tree? Where's the other?"
+                }
+              ],
+              "sfx": "CREAK"
+            }
+          ],
+          "id": "jVhrDLTacV",
+          "imageUrl": "/presets/preset-lim-teochew-c1-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom; give the bottom close-up generous height for the reveal.",
+            "locations": "All panels take place in the same Singapore family living room, present day: a calm, tidy home with a warm off-white wall and a dark teak keepsake shelf beside a teak table. The shelf holds a small family photograph in a simple frame and a few unobtrusive household keepsakes. Soft daylight enters from an unseen window at left; warm wood, cream walls, and gentle natural colours keep the room consistent. No other people are present.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view at eye level, showing Wei Ling alone at the shelf with the family photograph and old wooden document box clearly visible. Leave uncluttered wall space in the upper-left for the caption and open space above Wei Ling for her balloon.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "right of centre, beside the shelf",
+                    "action": "A curious thirteen-year-old with bright eyes and long black hair in a ponytail, wearing a yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks, and red canvas trainers; she sorts the keepsakes while looking at the box with a thoughtful, inquisitive expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left corner"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium shot from slightly below shelf height, framing Wei Ling as she lifts the box with both hands. Make the 林 character on the lid and the folded modern note tucked beneath the cord clearly legible; leave clear wall space above her for the balloon.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "centre-left, facing the box",
+                    "action": "Same ponytail and outfit as panel 1; she lifts the box carefully with both hands, eyes bright with recognition and a small delighted smile."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up over Wei Ling's shoulder on her hands unfolding the family note, with her curious face clearly visible near the right edge. Show the short message and the simple drawing of 林 as two trees; reserve open space above her face for the balloon and a small clear area for the caption.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "right side, leaning over the note",
+                    "action": "Same ponytail and outfit as the earlier panels; she unfolds the paper with both hands and studies it with an intent, slightly softened expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left corner"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Close-up at table height of the open box, with Wei Ling's clearly visible curious face above it. Show old letters, modern English translations, and a half-sized wooden plaque bearing one 木; make its jagged broken edge unmistakable. Leave clear space at upper-left for the caption and above Wei Ling at upper-right for her balloon.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "upper-right, leaning over the table",
+                    "action": "Same ponytail and outfit as in every panel; she peers into the open box with raised eyebrows and puzzled curiosity, one hand near the contents without obscuring them."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right, above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left corner"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero compares the token with the note's drawing. She places its single tree beneath one half of 林, showing exactly where the missing piece belongs.",
+              "shot": "close-up",
+              "caption": "Two trees make 林: woods or grove. One tree is missing.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Two trees make Lim. This is only half."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "The hero selects a translated letter beside its fragile original. The translation identifies a village near Jieyang in Chaoshan, China, and the year 1869.",
+              "shot": "medium",
+              "caption": "One letter points to Chaoshan, her family's homeland in China.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Jieyang. 1869. Who wrote this?"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "While reading the translation, the hero traces the wooden tree with her thumb. Light spills from the broken edge, and glowing words appear above the letter.",
+              "shot": "close-up",
+              "caption": "Join both trees to go home.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Home? I'm already home!"
+                }
+              ],
+              "sfx": "HUM"
+            },
+            {
+              "setting": "Wei Ling's family home, Singapore, present day",
+              "cast": [],
+              "scene": "Still gripping the token, the hero reaches for the table as the room dissolves around her. Wooden shelves fade into courtyard walls, and the tiled floor becomes packed earth.",
+              "shot": "wide",
+              "caption": "The token pulls Wei Ling into the letter's past.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Wait! I haven't found the other tree!"
+                }
+              ],
+              "sfx": "WHOOSH"
+            }
+          ],
+          "id": "1gOofz-tf9",
+          "imageUrl": "/presets/preset-lim-teochew-c1-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left-to-right, top-to-bottom.",
+            "locations": "Wei Ling's family living room in Singapore, present day: a warm, tidy room with pale cream walls, dark wooden shelves, and a sturdy wooden table. The open wooden document box, family keepsakes, and photograph remain on or beside the table; the box contains old letters, English translations, and the broken half-plaque carved with one 木. Soft daylight enters from the left. In panel 4, the same room transforms in place: shelves dissolve into simple courtyard walls and the tiled floor becomes packed earth, while the table and room's overall positions remain legible. Keep the transformation in muted golden light, with the token's glow as the brightest accent.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Tight close-up from slightly above the table, focused on Wei Ling's hands arranging the note and wooden token. Keep her curious face visible at the upper edge of the frame; leave clear space above her for the balloon and caption.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "upper centre, leaning over the table",
+                    "action": "In her yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks and red canvas trainers, she carefully places the single-tree 木 token beneath one half of 林 on the note's drawing. Her long ponytail and bright, curious eyes are visible as she studies the match."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium shot across the table, with the translated letter and its fragile original prominent in the foreground and Wei Ling's face clearly visible behind them. Leave open wall space above her for the balloon and caption.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "right side of the left panel, seated or leaning at the table",
+                    "action": "Wearing the same outfit and ponytail, she lifts the translation beside the delicate original, brows raised as she reads the place name Jieyang and the year 1869."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "top-right"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up of Wei Ling reading, with the letter below her face and the wooden token held between her fingers. A restrained glow spills from its broken edge, and luminous words appear above the letter; keep clear space for the balloon and caption.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "right foreground, face turned toward the letter",
+                    "action": "In the same outfit, she traces the carved tree with her thumb. Her eyes widen in startled disbelief as the token glows."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Wide, dynamic shot at table height. The room visibly dissolves from left to right: wooden shelves fade into courtyard walls and tiled flooring breaks into packed earth. Keep Wei Ling's face and reaching hand distinct against the changing background, with open space above for lettering.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "centre foreground",
+                    "action": "Still gripping the broken wooden token, she reaches toward the table to steady herself, body twisting as the room transforms around her. Her expression is alarmed, mouth open, ponytail swinging; her yellow T-shirt, navy shorts, white ankle socks and red trainers remain unchanged."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "upper-left"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Village courtyard near Jieyang, Chaoshan, China, 1869",
+              "cast": [],
+              "scene": "The hero lands on her knees in a village courtyard, still holding the token. Low houses surround her; her living room and the box are gone.",
+              "shot": "wide",
+              "caption": "A village near Jieyang, Chaoshan, China. 1869.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "That was not a normal family keepsake."
+                }
+              ],
+              "sfx": "THUMP"
+            },
+            {
+              "setting": "Village courtyard near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "A-Sheng Lim steps out of a doorway and offers the hero his hand. He has a notch in his left eyebrow, a long queue, an indigo cotton jacket and patched trousers.",
+              "shot": "medium",
+              "caption": "A-Sheng Lim, seventeen: Wei Ling's ancestor, though she doesn't know it yet.",
+              "dialogue": [
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Are you hurt?"
+                },
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Only my idea of a normal afternoon."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Village courtyard near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "Back on her feet, the hero shows A-Sheng the broken token. He leans closer to examine its carved tree.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "I need its other half to get home."
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "My mother knows that carving."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Village courtyard near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "A-Sheng points toward the dark doorway. The hero takes one step toward it, but her token suddenly tugs sideways in her hand, pulling toward a narrow courtyard gate instead.",
+              "shot": "medium",
+              "caption": "One clue leads inside. The token pulls another way.",
+              "dialogue": [
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Come. We'll ask her."
+                },
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Then why is it pulling toward the gate?"
+                }
+              ],
+              "sfx": "HUM"
+            }
+          ],
+          "id": "weExaWcL5l",
+          "imageUrl": "/presets/preset-lim-teochew-c1-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left to right, top to bottom.",
+            "locations": "All panels take place in the same modest village courtyard near Jieyang, Chaoshan, in 1869: packed-earth ground enclosed by low, weathered grey-brick houses with dark tiled roofs and simple timber doorframes. A shadowed doorway opens from the rear wall; a narrow wooden courtyard gate stands to one side. Keep the courtyard sparse, with only a clay water jar and a few worn household items near the walls. Overcast daylight is soft and muted, with cool grey masonry, earthy browns, and restrained indigo accents. No modern objects or traces of Wei Ling’s vanished living room or box.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing shot at courtyard level, showing the enclosing houses and both the dark doorway and narrow gate for later continuity. Wei Ling is kneeling in the foreground with the token still in hand, looking startled and taking in her unfamiliar surroundings.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "foreground, slightly left of centre",
+                    "action": "A thirteen-year-old girl with bright curious eyes and long hair in a ponytail, wearing the same yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks, and red canvas trainers throughout. She has just landed on her knees, grips the wooden token, and looks around in baffled disbelief."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, in clear wall space",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "top-right corner"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium two-shot from a slight angle, with the doorway visible behind A-Sheng and enough open wall above both characters for two readable balloons. Keep both faces unobstructed; A-Sheng reaches toward Wei Ling, who has started to rise.",
+                "characters": [
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "left, emerging from the doorway",
+                    "action": "A lean seventeen-year-old with bright eyes, a small notch in his left eyebrow, and black hair in a Qing-era queue. He wears an indigo cotton jacket and patched trousers, and offers Wei Ling his hand with a concerned, open expression."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "right foreground",
+                    "action": "In her unchanged yellow T-shirt, navy knee-length shorts, white ankle socks, red canvas trainers, and ponytail, she looks up at A-Sheng with a wry, slightly shaken smile as she accepts his help."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "small caption box at the top edge, clear of the faces and balloons"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close two-shot framed at chest height, with the broken wooden token prominent between them and its carved tree clearly legible. Wei Ling holds it out; A-Sheng leans in to inspect the carving, both faces visible in profile or three-quarter view.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "Still in her identical modern outfit and ponytail, she presents the token carefully, looking intent and hopeful."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground",
+                    "action": "In the same indigo jacket and patched trousers, with his queue and left-eyebrow notch visible, he leans close to study the carved tree with a flash of recognition."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium-wide shot that clearly shows the doorway behind A-Sheng and the narrow gate off to the side. A-Sheng gestures toward the doorway while Wei Ling starts that way, but the token pulls sharply sideways toward the gate; use her arm, turned shoulders, and the token’s tug to make the conflict instantly clear.",
+                "characters": [
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "left, beside the shadowed doorway",
+                    "action": "The lean young man, unchanged in his indigo cotton jacket, patched trousers, and Qing-era queue, points toward the doorway with an inviting expression."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "right of centre, between doorway and gate",
+                    "action": "In her unchanged yellow T-shirt, navy knee-length shorts, white ankle socks, red canvas trainers, and ponytail, she takes one step toward the doorway, then recoils as the token jerks sideways in her hand toward the narrow gate. She turns her face toward the gate in surprise."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "top centre, in open wall space"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? Two trees make a grove",
+        "body": "The Chinese character 林 means woods or grove and combines two 木 characters, each meaning tree. Lim is a Teochew spelling of 林; Lin and Lam can represent the same surname character in other language traditions. A shared surname alone does not prove that two families share a documented ancestor."
+      },
+      "dialectWord": null,
+      "quiz": {
+        "question": "What does the surname character 林 mean?",
+        "options": [
+          "A mountain",
+          "Woods or grove",
+          "A sailing boat"
+        ],
+        "answerIndex": 1,
+        "explanation": "林 combines two tree characters and means woods or grove."
+      },
+      "choices": [
+        "Follow the token through the gate.",
+        "Ask A-Sheng why his mother knows the carving.",
+        "Ask A-Sheng to introduce you politely to his mother."
+      ],
+      "isFinale": false,
+      "id": "WV-X7365co",
+      "prompt": null
+    },
+    {
+      "chapterTitle": "The Tree That Stays",
+      "place": "A village near Jieyang, Chaoshan, China",
+      "year": "1869",
+      "act": 2,
+      "recap": "Wei Ling needs the missing half of a wooden token to return home. She follows its pull through the gate, with A-Sheng close behind.",
+      "heroOutfit": "A yellow short-sleeved T-shirt, navy blue knee-length shorts, white ankle socks and red canvas trainers. Her long hair stays in a ponytail throughout.",
+      "sheets": [
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Outside A-Sheng's family courtyard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "The hero steps through the courtyard gate, following the tug of her wooden half. A-Sheng follows her onto a narrow lane beside a small vegetable plot.",
+              "shot": "wide",
+              "caption": "Near Jieyang, China. 1869. Wei Ling follows the pull through the gate.",
+              "dialogue": [
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Mother's in the next yard."
+                },
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Good. My tree seems to know the way."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim",
+                "Mei"
+              ],
+              "scene": "The hero reaches a work yard where Mei sorts a small pile of grain beside a nearly empty basket. Mei wears a dark cotton tunic and trousers, with a faded blue cloth tucked into her waistband.",
+              "shot": "medium",
+              "caption": "Mei: A-Sheng's mother, age forty-two.",
+              "dialogue": [
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Mother, she needs help with this carving."
+                },
+                {
+                  "speaker": "Mei",
+                  "text": "Let me see."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei"
+              ],
+              "scene": "The hero holds out her half. Mei opens a small wooden container, revealing an intact plaque with the same carving and grain pattern.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Yours is whole! Mine must come from later."
+                },
+                {
+                  "speaker": "Mei",
+                  "text": "This was carved for our family."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei",
+                "A-Sheng Lim"
+              ],
+              "scene": "The hero reaches toward the intact plaque, but Mei gently closes the container. A-Sheng watches beside a rolled bedding bundle.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Could its other tree help me get home?"
+                },
+                {
+                  "speaker": "Mei",
+                  "text": "Perhaps. But first, we must prepare his journey."
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "fNlj7VQu8E",
+          "imageUrl": "/presets/preset-lim-teochew-c2-p1.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Reading order left-to-right, top-to-bottom; keep the middle panels comfortably large enough for clear lettering and the plaque reveal.",
+            "locations": "Two connected locations in the same rural village near Jieyang, Chaoshan, China, 1869. The narrow lane outside the low family courtyard has packed-earth ground, a simple wooden gate, whitewashed earthen walls with dark tiled eaves, and a small green vegetable plot beside it. The neighbouring work yard is enclosed by the same modest whitewashed walls and tiled roofs, with packed earth, a low grain-sorting surface, a nearly empty woven basket, a small wooden container, and a rolled bedding bundle. Warm, muted late-morning daylight; subdued earth, grey tile, faded indigo and vegetable greens. Keep architecture, props, weather and light consistent whenever these connected yards appear; avoid modern objects.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Wide establishing view from inside the lane, looking toward the open courtyard gate and the small vegetable plot. Wei Ling leads into the lane, visibly following the tug of the wooden half; A-Sheng follows. Leave clear sky or pale wall space across the upper edge for the caption and dialogue balloons.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground, just outside the gate",
+                    "action": "In her unchanged yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks and red canvas trainers, she steps into the lane with her long ponytail intact, holding the wooden half and looking ahead with curious interest."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right of Wei Ling, following through the gate",
+                    "action": "Seventeen, lean, bright-eyed, with the small notch in his left eyebrow and black Qing-era queue; wearing his indigo cotton jacket and patched trousers. He follows attentively, speaking toward Wei Ling."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-right above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "top-left corner"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Medium view into the neighbouring work yard, framed so the nearly empty grain basket and Mei sorting a small pile of grain establish the scene. Place the two speakers apart with their faces visible and open wall space above them for balloons.",
+                "characters": [
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "left foreground, beside the yard entrance",
+                    "action": "In his consistent indigo jacket and patched trousers, he introduces Wei Ling to his mother with an earnest, slightly urgent expression."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "right foreground, beside the grain and basket",
+                    "action": "Forty-two, compact, broad-cheeked, with centre-parted hair in a low bun; wearing a dark cotton tunic and practical trousers, with a faded blue cloth tucked into her waistband. She pauses sorting grain and looks toward Wei Ling, attentive and cautious."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "between them, slightly behind A-Sheng",
+                    "action": "In the same yellow T-shirt, navy shorts, white ankle socks and red trainers, ponytail intact; she holds the broken wooden half carefully and watches Mei."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Mei",
+                    "pointsTo": "Mei"
+                  }
+                ],
+                "captionPlacement": "top-left corner"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Close-up focused on the hands and faces as Wei Ling presents her broken half and Mei opens the small wooden container to reveal an intact plaque with matching carving and grain. Keep both faces clearly visible behind the objects, and reserve clear space at the top for the two balloons.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "Her long ponytail and chapter outfit remain unchanged; she extends her broken wooden half toward Mei, eyes bright with surprised excitement."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "right foreground",
+                    "action": "In the same dark cotton tunic, practical trousers and faded blue waistband cloth, she opens the container and reveals the intact matching plaque, speaking with quiet gravity."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Mei",
+                    "pointsTo": "Mei"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Medium view of the work yard, with the open container and intact plaque between Mei and Wei Ling as Mei gently closes it. A-Sheng stands beside the rolled bedding bundle in the background, clearly visible and watchful. Leave a strip of uncluttered wall above the speakers for balloons.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground, reaching toward the container",
+                    "action": "In her unchanged yellow T-shirt, navy shorts, white ankle socks and red canvas trainers, ponytail intact; she reaches carefully toward the plaque and asks with hopeful concern."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "right foreground, beside the container",
+                    "action": "In her consistent dark cotton tunic and practical trousers, faded blue cloth at her waistband; she gently closes the container, firm but kind as she answers."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "rear right, beside the rolled bedding bundle",
+                    "action": "In his indigo jacket and patched trousers, queue and left eyebrow notch unchanged; he watches Mei and Wei Ling quietly, face visible."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right above Mei",
+                    "pointsTo": "Mei"
+                  }
+                ],
+                "captionPlacement": ""
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim",
+                "Mei"
+              ],
+              "scene": "A-Sheng opens a letter beside the bedding bundle. The hero leans closer while Mei keeps sorting the grain.",
+              "shot": "medium",
+              "caption": "A letter from Singapore offers a chance, not a promise of riches.",
+              "dialogue": [
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Our relative can introduce me to an employer."
+                },
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Singapore? That's where I live!"
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei",
+                "A-Sheng Lim"
+              ],
+              "scene": "Mei tips the last grain from the basket into a cloth bag. The hero sees that the basket holds nothing more.",
+              "shot": "close-up",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Mei",
+                  "text": "Poor harvests. Debts. Too little work here."
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "I'll send money when I can."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "The hero tries to tighten the bedding bundle so A-Sheng can pack his letter. Her first knot slips, spilling the bedding at their feet.",
+              "shot": "medium",
+              "caption": null,
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "I can help. Probably."
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Your knot has decided to stay home."
+                }
+              ],
+              "sfx": "FLOP!"
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "A-Sheng Lim"
+              ],
+              "scene": "Following A-Sheng's demonstration, the hero ties the bundle securely. He tucks the folded introduction letter inside his jacket.",
+              "shot": "close-up",
+              "caption": "Wei Ling tries again. This time, the knot holds.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Keep that letter safe."
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Yes. Someone there will know my name."
+                }
+              ],
+              "sfx": null
+            }
+          ],
+          "id": "O5LxRvZhfg",
+          "imageUrl": "/presets/preset-lim-teochew-c2-p2.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width. Read left-to-right, top-to-bottom.",
+            "locations": "All panels share the same neighbouring work yard near Jieyang, Chaoshan, in 1869: a modest packed-earth yard beside a weathered grey-brick wall and timber doorway, with a small vegetable plot just visible beyond. A low woven basket, a plain cloth grain bag, and a rolled bedding bundle sit on the earth. Overcast late-afternoon light, muted earthy browns and greys, with indigo and faded blue accents. Keep props and background consistent across panels; no modern objects.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Medium shot at eye level, framing the three figures and the bedding bundle against the yard wall. Leave clear wall space above each speaker; the moment is earnest but open and curious.",
+                "characters": [
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "left foreground",
+                    "action": "Seventeen, lean, bright-eyed, with a notch in his left eyebrow and black hair in a Qing-era queue; wearing an indigo cotton jacket and patched trousers. He opens a folded letter beside the bedding bundle, looking toward Wei Ling."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "right foreground",
+                    "action": "Thirteen, friendly and curious, long ponytail, bright eyes; wearing the same yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks and red canvas trainers. She leans closer to read the letter, visibly surprised."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "background center",
+                    "action": "Forty-two, compact, broad-cheeked, centre-parted hair in a low bun; dark cotton tunic and practical trousers, faded blue cloth tucked into waistband. She quietly sorts grain beside the basket."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  }
+                ],
+                "captionPlacement": "small box at upper-left edge, clear of the speech balloons"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up focused on Mei's hands, the emptying basket and cloth bag, with Mei's face clearly visible above them. Keep a small open area over each speaker for balloons.",
+                "characters": [
+                  {
+                    "name": "Mei",
+                    "position": "left foreground",
+                    "action": "She tips the final few grains from the nearly empty basket into a cloth bag, her face weary and matter-of-fact."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground",
+                    "action": "He watches Mei with a solemn, determined expression, one hand resting near the folded letter."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "background right",
+                    "action": "She looks down at the bare basket, understanding that nothing remains."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Mei",
+                    "pointsTo": "Mei"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium shot, angled slightly downward to show the bedding spilling at their feet. Keep both faces visible and the slipping knot legible; the mood is a gentle comic mishap.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "She strains to tighten the bedding bundle; her first knot slips and bedding spills onto the earth. She gives an uncertain, sheepish smile."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground",
+                    "action": "He watches the loose bedding with an amused, kind grin, shoulders relaxed."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": ""
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Close-up at eye level, giving the successful knot and the tucked-away letter clear emphasis while keeping both faces unobstructed. The mood is warm and quietly hopeful.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "In the same yellow T-shirt, navy shorts, white ankle socks, red canvas trainers and long ponytail, she finishes a secure knot with a small, proud smile."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground",
+                    "action": "He tucks the folded introduction letter inside his indigo jacket and meets Wei Ling's gaze with a grateful, hopeful expression."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "top-left above Wei Ling",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "top-right above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": "small box at upper-left edge, above the figures and clear of the speech balloons"
+              }
+            ]
+          }
+        },
+        {
+          "format": "portrait",
+          "panels": [
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei",
+                "A-Sheng Lim"
+              ],
+              "scene": "Mei brings out the intact plaque and separates it along a prepared cut between the two trees. The hero watches, holding her own half beside her chest.",
+              "shot": "close-up",
+              "caption": "Before A-Sheng leaves, Mei divides the family token.",
+              "dialogue": [
+                {
+                  "speaker": "Mei",
+                  "text": "One tree travels. One stays with me."
+                }
+              ],
+              "sfx": "CLICK!"
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei",
+                "A-Sheng Lim"
+              ],
+              "scene": "Mei presses one half into A-Sheng's palm. The hero compares it with hers: both show the same small mark in the wood.",
+              "shot": "close-up",
+              "caption": "A-Sheng receives the half Wei Ling already carries.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "That mark! Mine is yours, years from now."
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Then someone kept it."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei"
+              ],
+              "scene": "Mei folds her remaining half into the faded blue cloth, making a small pouch. The hero points to it as her own token begins to glow.",
+              "shot": "medium",
+              "caption": "The missing tree is in Mei's blue cloth.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "That's the half I need!"
+                },
+                {
+                  "speaker": "Mei",
+                  "text": "Tell me why, child."
+                }
+              ],
+              "sfx": null
+            },
+            {
+              "setting": "Neighbouring work yard, near Jieyang, Chaoshan, China, 1869",
+              "cast": [
+                "Mei",
+                "A-Sheng Lim"
+              ],
+              "scene": "Before the hero can reach Mei's pouch, her glowing token pulls her backward toward the lane. A-Sheng reaches out to steady her while the edge of the yard blurs into a distant harbour.",
+              "shot": "wide",
+              "caption": "The other tree is within reach—but the token pulls toward another journey.",
+              "dialogue": [
+                {
+                  "speaker": "Wei Ling",
+                  "text": "Wait! I haven't joined them!"
+                },
+                {
+                  "speaker": "A-Sheng Lim",
+                  "text": "Take my hand!"
+                }
+              ],
+              "sfx": "WHOOSH!"
+            }
+          ],
+          "id": "s7XSzKcT0a",
+          "imageUrl": "/presets/preset-lim-teochew-c2-p3.webp",
+          "art": {
+            "layout": "Portrait page. Row 1: panel 1, full width. Row 2: panels 2 and 3 side by side. Row 3: panel 4, full width and visually largest for the climax. Reading order is left-to-right, top-to-bottom.",
+            "locations": "Neighbouring work yard near Jieyang, Chaoshan, China, 1869: a compact, packed-earth courtyard beside a modest traditional home with pale, weathered plaster walls, dark timber framing, and a simple tiled roof visible above. A narrow lane opens beyond the yard. A low work surface, the bedding bundle, and a grain basket remain unobtrusive continuity props. Soft overcast daylight gives the scene muted earth browns, grey plaster, and natural indigo and faded-blue accents. The air is still; in the final panel only, the lane and far edge of the yard distort into a faint, distant harbour as a supernatural transition, while the courtyard itself remains recognizable.",
+            "panels": [
+              {
+                "position": "row 1, full width",
+                "composition": "Close-up, framed around Mei's hands and the wooden family plaque as she separates it along its prepared cut between the two tree motifs. Keep Mei's face clearly visible at left and Wei Ling's face at right; the moment feels intimate and weighty, with ample uncluttered wall above for lettering.",
+                "characters": [
+                  {
+                    "name": "Mei",
+                    "position": "left foreground",
+                    "action": "Her broad-cheeked face is calm but tender as she carefully separates the plaque; she wears her dark cotton tunic and practical trousers, with the faded blue cloth tucked at her waistband."
+                  },
+                  {
+                    "name": "Wei Ling",
+                    "position": "right foreground",
+                    "action": "Her bright, curious eyes follow the split plaque; she holds her own half against her chest. She wears the same yellow short-sleeved T-shirt, navy knee-length shorts, white ankle socks, and red canvas trainers, with her long hair in a ponytail."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, over clear wall space",
+                    "pointsTo": "Mei"
+                  }
+                ],
+                "captionPlacement": "top-right corner"
+              },
+              {
+                "position": "row 2, left half",
+                "composition": "Close-up on the exchange, with A-Sheng's open palm and the two matching wooden halves prominent in the lower foreground. Keep Wei Ling's face clearly visible on the left and A-Sheng's on the right; leave open wall above each for separate balloons.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "She holds her half beside A-Sheng's, comparing the identical small mark in the wood; her expression is astonished and eager. Her yellow T-shirt and ponytail match the other panels."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground",
+                    "action": "The lean seventeen-year-old receives Mei's half in his open palm and looks from the mark to Wei Ling with dawning wonder. He has bright eyes, a small notch in his left eyebrow, a Qing-era queue, an indigo cotton jacket, and patched trousers."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": "lower-left corner, clear of hands and faces"
+              },
+              {
+                "position": "row 2, right half",
+                "composition": "Medium close-up angled toward Mei as she folds her wooden half into the faded blue cloth at her waistband, making a small pouch. Wei Ling points toward it; her token begins to glow visibly at her chest. Keep both faces unobstructed and reserve clear wall space above them.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "left foreground",
+                    "action": "She points urgently toward Mei's pouch, her curious expression turning hopeful as her own token emits a small, warm glow. Her outfit and ponytail remain unchanged."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "right foreground",
+                    "action": "She finishes folding the remaining plaque half into the blue cloth and looks at Wei Ling with puzzled concern; her centre-parted hair is in a low bun, and she wears the same dark tunic and practical trousers."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right",
+                    "pointsTo": "Mei"
+                  }
+                ],
+                "captionPlacement": "lower-left corner"
+              },
+              {
+                "position": "row 3, full width",
+                "composition": "Wide, dynamic view of the yard and open lane. Wei Ling is pulled backward diagonally away from Mei's pouch by the brightening token; A-Sheng reaches from the right to catch her hand, while Mei remains beside the pouch. The yard's edge blurs into a faint distant harbour beyond the lane; keep the characters' faces clear and reserve sky or wall space at opposite sides for balloons.",
+                "characters": [
+                  {
+                    "name": "Wei Ling",
+                    "position": "centre-left, being drawn toward the lane",
+                    "action": "She reaches toward Mei's pouch with one hand while the glowing token pulls her backward; her face shows alarm and frustration. Her yellow T-shirt, navy shorts, white ankle socks, red trainers, and ponytail remain identical."
+                  },
+                  {
+                    "name": "A-Sheng Lim",
+                    "position": "right foreground, leaning toward Wei Ling",
+                    "action": "He reaches out with an urgent, steadying hand, eyes wide and focused on her; his queue, notched left eyebrow, indigo jacket, and patched trousers remain consistent."
+                  },
+                  {
+                    "name": "Mei",
+                    "position": "left background beside the work surface",
+                    "action": "She holds the small blue-cloth pouch close and watches Wei Ling being pulled away in startled confusion."
+                  }
+                ],
+                "balloons": [
+                  {
+                    "line": 0,
+                    "placement": "upper-left, in clear wall and sky space",
+                    "pointsTo": "Wei Ling"
+                  },
+                  {
+                    "line": 1,
+                    "placement": "upper-right, above A-Sheng",
+                    "pointsTo": "A-Sheng Lim"
+                  }
+                ],
+                "captionPlacement": "top-centre, in clear sky space between the balloons"
+              }
+            ]
+          }
+        }
+      ],
+      "historyNote": {
+        "title": "Did you know? A letter could open a door",
+        "body": "In the nineteenth century, many Teochew people left Chaoshan for work in Southeast Asia. Poor harvests, debts and limited work could influence a household's decision to send someone abroad. Relatives and people from the same home village often helped newcomers find lodging or employment. A-Sheng and Mei are fictional, but their letter shows how these real connections could help migrants."
+      },
+      "dialectWord": null,
+      "quiz": {
+        "question": "How could the letter help A-Sheng in Singapore?",
+        "options": [
+          "It paid all his family's debts.",
+          "It offered an introduction to an employer.",
+          "It guaranteed that he would become rich."
+        ],
+        "answerIndex": 1,
+        "explanation": "His relative offered an introduction that could help him find work, not guaranteed wealth."
+      },
+      "choices": [
+        "Fight the pull and reach for Mei's blue pouch.",
+        "Follow the harbour vision to discover where the token leads.",
+        "Take A-Sheng's hand and help him face the journey."
+      ],
+      "isFinale": false,
+      "id": "2NwPFSCmoo",
+      "prompt": "Follow the token through the gate."
+    }
+  ],
+  "isPublic": true,
+  "createdAt": "2026-10-11T06:20:55.634Z",
+  "updatedAt": "2026-10-11T06:20:55.634Z",
+  "isFeatured": true
+}

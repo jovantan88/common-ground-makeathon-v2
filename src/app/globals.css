@@ -1,0 +1,239 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-comic-neue), ui-sans-serif, system-ui, "PingFang SC", "Noto Sans SC", sans-serif;
+  --font-display: var(--font-bangers), "Impact", sans-serif;
+  --font-heading: var(--font-bangers), "Impact", sans-serif;
+  --font-brush: "Ma Shan Zheng", "Kaiti SC", "STKaiti", serif;
+  --font-mono: ui-monospace, monospace;
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  /* Comic palette */
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-pow: var(--pow);
+  --color-zap: var(--zap);
+  --color-bam: var(--bam);
+  --color-jade: var(--jade);
+  --color-blush: var(--blush);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  --shadow-comic-sm: 3px 3px 0 0 var(--ink);
+  --shadow-comic: 5px 5px 0 0 var(--ink);
+  --shadow-comic-lg: 8px 8px 0 0 var(--ink);
+
+  --animate-wiggle: wiggle 0.6s ease-in-out infinite;
+  --animate-pop-in: pop-in 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  --animate-float: float 3s ease-in-out infinite;
+}
+
+:root {
+  --ink: #141414;
+  --paper: #fff8e7;
+  --pow: #ffd23f;   /* yellow */
+  --zap: #e63946;   /* red */
+  --bam: #1f6feb;   /* blue */
+  --jade: #12a37f;  /* green */
+  --blush: #ff7eb6; /* pink */
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+  --card: #ffffff;
+  --card-foreground: var(--ink);
+  --popover: #ffffff;
+  --popover-foreground: var(--ink);
+  --primary: var(--zap);
+  --primary-foreground: #ffffff;
+  --secondary: var(--pow);
+  --secondary-foreground: var(--ink);
+  --muted: #f3ead2;
+  --muted-foreground: #5b5346;
+  --accent: var(--pow);
+  --accent-foreground: var(--ink);
+  --destructive: var(--zap);
+  --border: var(--ink);
+  --input: var(--ink);
+  --ring: var(--bam);
+  --radius: 0.35rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-image:
+      radial-gradient(color-mix(in oklab, var(--ink) 9%, transparent) 1px, transparent 1.2px);
+    background-size: 14px 14px;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  ::selection {
+    background: var(--pow);
+    color: var(--ink);
+  }
+}
+
+@layer components {
+  .comic-title {
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+    line-height: 0.95;
+  }
+
+  /* Outlined pop-art lettering */
+  .text-outline {
+    -webkit-text-stroke: 2px var(--ink);
+    paint-order: stroke fill;
+    text-shadow: 4px 4px 0 var(--ink);
+  }
+  .text-outline-sm {
+    -webkit-text-stroke: 1.25px var(--ink);
+    paint-order: stroke fill;
+    text-shadow: 2px 2px 0 var(--ink);
+  }
+
+  .comic-box {
+    background: #fff;
+    border: 3px solid var(--ink);
+    box-shadow: var(--shadow-comic);
+  }
+
+  .halftone {
+    background-image: radial-gradient(color-mix(in oklab, var(--ink) 22%, transparent) 1.2px, transparent 1.6px);
+    background-size: 8px 8px;
+  }
+  .halftone-light {
+    background-image: radial-gradient(rgb(255 255 255 / 0.16) 1.3px, transparent 1.7px);
+    background-size: 9px 9px;
+  }
+
+  .sunburst {
+    background: repeating-conic-gradient(from 0deg at 50% 50%, var(--pow) 0deg 10deg, #ffe58a 10deg 20deg);
+  }
+  .sunburst-red {
+    background: repeating-conic-gradient(from 0deg at 50% 50%, var(--zap) 0deg 10deg, #f2626c 10deg 20deg);
+  }
+
+  /* Starburst shape for POW! badges */
+  .burst {
+    clip-path: polygon(
+      50% 0%, 61% 18%, 79% 7%, 77% 28%, 98% 24%, 85% 42%, 100% 55%, 81% 63%,
+      90% 82%, 69% 79%, 64% 100%, 50% 85%, 36% 100%, 31% 79%, 10% 82%, 19% 63%,
+      0% 55%, 15% 42%, 2% 24%, 23% 28%, 21% 7%, 39% 18%
+    );
+  }
+
+  .caption-box {
+    background: var(--pow);
+    border: 2.5px solid var(--ink);
+    box-shadow: var(--shadow-comic-sm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+
+  .speech {
+    position: relative;
+    background: #fff;
+    border: 2.5px solid var(--ink);
+    border-radius: 1.4em;
+    box-shadow: var(--shadow-comic-sm);
+  }
+  .speech::before,
+  .speech::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+  }
+  /* tails point up toward the speaker */
+  .speech[data-tail="left"]::before,
+  .speech[data-tail="right"]::before {
+    top: -15px;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 15px solid var(--ink);
+  }
+  .speech[data-tail="left"]::after,
+  .speech[data-tail="right"]::after {
+    top: -9px;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 10px solid #fff;
+  }
+  .speech[data-tail="left"]::before { left: 1.5em; transform: skewX(-20deg); }
+  .speech[data-tail="left"]::after { left: calc(1.5em + 3px); transform: skewX(-20deg); }
+  .speech[data-tail="right"]::before { right: 1.5em; transform: skewX(20deg); }
+  .speech[data-tail="right"]::after { right: calc(1.5em + 3px); transform: skewX(20deg); }
+
+  .pencil-sketch {
+    background-color: #fdf6e3;
+    background-image:
+      repeating-linear-gradient(-45deg, rgb(20 20 20 / 0.06) 0 2px, transparent 2px 9px),
+      radial-gradient(color-mix(in oklab, var(--ink) 12%, transparent) 1px, transparent 1.4px);
+    background-size: auto, 10px 10px;
+  }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+@keyframes pop-in {
+  from { opacity: 0; transform: scale(0.85) rotate(-2deg); }
+  to { opacity: 1; transform: scale(1) rotate(0); }
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+@keyframes ink-sweep {
+  from { background-position: 0 0, 0 0; }
+  to { background-position: 90px 0, 0 0; }
+}
+.animate-ink {
+  animation: ink-sweep 2.5s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-ink,
+  .animate-wiggle,
+  .animate-float {
+    animation: none !important;
+  }
+}
